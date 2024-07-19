@@ -1,0 +1,212 @@
+BACKUP ~wallace/Backup~
+AUTHOR ~CursedScholar (cursedscholarlearning@gmail.com)~
+
+VERSION ~v1.0~
+README ~wallace/Readme-SirKyleWallace.txt~
+
+LANGUAGE
+~English~
+~English~
+~sirwallace/tra/English/setup.tra~
+~sirwallace/tra/English/CFQUEST.tra~
+
+BEGIN
+
+ADD JOURNAL @41 @42 USING ~sirwallace/tra/English/CFQUEST.tra~
+
+
+APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~
+UNLESS ~CD_STATE_NOTVALID~
+
+
+//* COPY EXISTING ~ar0406.are~ ~override~
+     LPF fj are structure
+         INT_VAR
+         fj_loc_x          = 907
+         fj_loc_y          = 802
+         fj_schedule       = 0b111111111111111111111111
+         fj_orientation    = 2
+         STR_VAR
+         fj_structure_type = actor
+         fj_name           = Wallace
+         fj_cre_resref     = CFKYLE
+                                           *//
+
+
+COPY ~sirwallace/characters/CFKYLE.cre~ ~override/CFKYLE.cre~
+SAY MORALE @1
+SAY HAPPY @2
+SAY UNHAPPY_ANNOYED @3
+SAY UNHAPPY_SERIOUS @4
+SAY UNHAPPY_BREAKING @5
+SAY LEADER @6
+SAY TIRED @7
+SAY BORED @8
+SAY BATTLE_CRY1 @9
+SAY BATTLE_CRY2 @10
+SAY BATTLE_CRY3 @11
+SAY DAMAGE ~Oof...~
+SAY HURT @12
+SAY DYING @13
+SAY AREA_FOREST @14
+SAY AREA_CITY @15
+SAY AREA_DUNGEON @16
+SAY AREA_DAY @17
+SAY AREA_NIGHT @18
+SAY SELECT_COMMON1 @19
+SAY SELECT_COMMON2 @20
+SAY SELECT_COMMON3 @21
+SAY SELECT_COMMON4 @22
+SAY SELECT_COMMON5 @23
+SAY SELECT_COMMON6 @24
+SAY SELECT_ACTION1 @25
+SAY SELECT_ACTION2 @26
+SAY SELECT_ACTION3 @27
+SAY SELECT_ACTION4 @28
+SAY SELECT_ACTION5 @29
+SAY SELECT_ACTION6 @30
+SAY SELECT_ACTION7 @31
+SAY SELECT_RARE1 @32
+SAY SELECT_RARE2 @33
+SAY CRITICAL_HIT @34
+SAY CRITICAL_MISS @35
+SAY TARGET_IMMUNE @36
+SAY INVENTORY_FULL @37
+SAY SPELL_DISRUPTED @38
+SAY BIO @39
+
+COMPILE EVALUATE_BUFFER ~wallace/Dialogue/BCFKYLE.d~ // All Branwen's banters with other party members will go here. We need the "EVALUATE_BUFFER" because the chapter variable now uses the OUTER_SPRINT variable defined above for the EET continuous journal system.
+	~wallace/Dialogue/CFFRED.d~  // Quest that involves getting Wallace through Fred.
+	~wallace/Dialogue/CFKYLEJ.d~ // The rest of Wallace's dialogue: his commentary, interjections, talks with the player, and all else.
+	~wallace/Dialogue/CFKYLEK.d~ // Wallace leaves the party
+
+
+
+ACTION_IF FILE_EXISTS_IN_GAME ~CFKYLE.cre~ THEN 
+BEGIN
+
+
+COPY ~sirwallace/characters/CFKYLEW.cre~ ~override/CFKYLEW.cre~
+SAY MORALE @1
+SAY HAPPY @2
+SAY UNHAPPY_ANNOYED @3
+SAY UNHAPPY_SERIOUS @4
+SAY UNHAPPY_BREAKING @5
+SAY LEADER @6
+SAY TIRED @7
+SAY BORED @8
+SAY BATTLE_CRY1 @9
+SAY BATTLE_CRY2 @10
+SAY BATTLE_CRY3 @11
+SAY DAMAGE ~Ouch.~  // There's no text when Sir Wallace cries out in pain.
+SAY HURT @12
+SAY DYING @13
+SAY AREA_FOREST @14
+SAY AREA_CITY @15
+SAY AREA_DUNGEON @16
+SAY AREA_DAY @17
+SAY AREA_NIGHT @18
+SAY SELECT_COMMON1 @19
+SAY SELECT_COMMON2 @20
+SAY SELECT_COMMON3 @21
+SAY SELECT_COMMON4 @22
+SAY SELECT_COMMON5 @23
+SAY SELECT_COMMON6 @24
+SAY SELECT_ACTION1 @25
+SAY SELECT_ACTION2 @26
+SAY SELECT_ACTION3 @27
+SAY SELECT_ACTION4 @28
+SAY SELECT_ACTION5 @29
+SAY SELECT_ACTION6 @30
+SAY SELECT_ACTION7 @31
+SAY SELECT_RARE1 @32
+SAY SELECT_RARE2 @33
+SAY CRITICAL_HIT @34
+SAY CRITICAL_MISS @35
+SAY TARGET_IMMUNE @36
+SAY INVENTORY_FULL @37
+SAY SPELL_DISRUPTED @38
+SAY BIO @39
+
+
+
+WRITE_ASCII 0x2cc ~CFKYL25S~ #8  // dialogue file where we'll put Branwen's greeting dialogue for ToB, if you summon her via Fate Spirit.
+WRITE_ASCII 0x280 ~CFKYLE~   #32 // death variable - it remains the same in ToB.
+LAF cd_portrait_npc STR_VAR source = ~kyleL~ source_path = ~wallace/portraits~ END
+
+
+COMPILE EVALUATE_BUFFER ~wallace/Dialogue/O#BBra25.d~  // All Branwen's ToB banters with other party members will go here. Again, we use 25, because it's a tradution for ToB. Again, "EVALUATE_BUFFER" because of the chapter numbers
+	~wallace/Dialogue/KYLEFTS.d~  // Branwen's ToB greeting dialogue will go here.
+	~wallace/Dialogue/O#Bra25J.d~  // The rest of Branwen's ToB dialogue: her commentary, interjections, talks with the player, lovetalks and everything else.
+	~wallace/Dialogue/CFKYL25.d~  // Branwen's ToB leaving party dialogue will go here.
+
+
+
+ACTION_IF GAME_IS ~BG2EE eet~ BEGIN
+COMPILE	~wallace/Dialogue/EEKYLE.d~
+END
+
+COPY ~sirwallace/Epilogue/CFKYLEZ.2da~ ~override/CFKYL01.2da~
+REPLACE ~99999~ @40
+
+
+COMPILE "wallace/Dialogue"
+
+
+EXTEND_TOP ~AR6200.bcs~ ~wallace/Scripts/AR6200.baf~
+
+
+
+// These files add Branwen's scripts and dialogue files to the game(except for the banter file, that's below). The first block is for SoA-only installs, the second one is for ToB.
+// Here's the order: death variable, leaving party file, main dialogue file(J for joined), dream script for SoA.
+// Or death variable, leaving party file, main dialogue file(J for joined), dream script for SoA, leaving party file for ToB, main dialogue(J) file for ToB, ToB dream script, ToB main script.
+
+APPEND ~pdialog.2da~
+~CFKYLE        CFKYLEK             CFKYLEJ~
+UNLESS ~CFKYLE~
+UNLESS ~25POST~
+
+APPEND ~pdialog.2da~
+~CFKYLE        CFKYLEK             CFKYLEJ            CFKYLED             CFKYL25P             CFKYL25S~
+UNLESS ~CFKYLE~
+IF ~25POST~
+
+
+// These files add Branwen's banter files to the game. The first block is for SoA-only installs, the second one is for ToB.
+// Here's the order: death variable, SoA banter file for SoA. Or death variable, SoA banter file, ToB banter file for ToB.
+APPEND ~interdia.2da~
+~CFKYLE       BCFKYLE~
+UNLESS ~CFKYLE~
+UNLESS ~25FILE~
+
+APPEND ~interdia.2da~
+~CFKYLE       BCFKYLE       BCFKYL25~
+UNLESS ~CFKYLE~
+IF ~25FILE~
+
+
+
+
+// EET related code
+ACTION_IF GAME_IS ~eet~ BEGIN
+  INCLUDE ~EET/other/EET_functions.tph~
+  LAF ~EET_NPC_TRANSITION~
+    INT_VAR
+      type = 2
+      default_ToB = 1
+      clean_ToB = 1
+    STR_VAR
+      dv = "?"
+      override_ToB = "CFKYL25S" //Branwen ToB Override script
+      dialog_ToB = "CFKYLE25" //Branwen ToB dialogue file
+      cre_ToB = "CFKYLE25"
+      string = "@0" 
+      stringPosDV = "Yoshimo"
+      clean_ToB_DV = "Wallace"
+  END
+END ELSE BEGIN
+  COMPILE ~wallace/Dialogue/FATESP.d~
+END
+
+
+

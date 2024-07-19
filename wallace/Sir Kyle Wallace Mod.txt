@@ -1,0 +1,61 @@
+Modding Prefix !CR5
+
+Sir Kyle Wallace(Wood if needed) Mod - Avenger Druid Class
+
+
+When asked about his past, WALLACE places his smoke pipe in his pocket and explains his many solo jaunts throughout the pumpkin farm where he grew up. Many of which start off with the common folk trying to test if him and his brethren can be goldenpanned for their stomachs or gnoll droppings to be tossed in a chamber's pot. He strongly states that all pumpkins should not be devoured and should be left to grow in peace. However, upon further listening you find out he was not always this size and that after a wizard had used a magical artifact on him, his entire being had turned him into the pumpkin defender that stands before you. Despite what he's been through, he seems to be taking it well.
+
+STR - 14
+DEX - 16
+CON - 16
+INT - 9
+WIS - 16
+CHA - 13
+
+Racial Perks:
+Resistance to bludgeoning, slashing and piercing. Mainly because pumpkins are tough and hardy.
+
+Notes:
+Dual wielding Scimitars cuz their curved like his stem. Slings cuz rock throwing off people who want pumpkins.
+Will vomit seeds when excited.
+Is not attracted to humanoids less their dryads. Attracted to veggies.
+Will have a disapproved disposition to all races outside of elves due to them defending nature and will approve of druids cuz of their defense.
+WILL NOT BE ABLE TO ROMANCE.
+
+
+Click/Gameplay Quotes:
+Morale failure - I'm not getting cooked here!
+Leader - Me? Leading? Sure but let's find the nearest tavern first brother!
+Tired - I know I don't need to sleep but I can feel my pulp getting mushy. Can we rest?
+Bored - And I thought sitting in sunlight was boring...
+BattleCry1 - Don't mess with the STEM!
+BattleCry2 - FOR THE BROTHER LENNY!
+BattleCry3 - Brother, are you good?
+Damage - (Insert hurt sound here)
+Hurt - Pumpkin pie? I don't wanna die.
+Dying - Remember to bury me brother....
+Forest - Being here reminds me of the farm back home. Once I get back, I plan on taking my fellow Brother-in-arms here.
+City - Ugh. Too many common folk abusing my kind. We are more than just food.
+Dungeon - Not enough sunlight in here. And how do the mortals clean themselves here?
+Day - Mind if we stay here for a while? My dew needs drying.
+Night - Feels like every night I grow a pound or two. Good thing I'm traveling with you guys.
+Select1 - Say Word and I will follow.
+Select2 - Who needs to get squashed?
+Select3 - Be quick, I need to be watered.
+Select4 - You think someone wants me eaten?
+Select5 - This better not have me be flamed.
+Select6 - What would you have of this pumpkin?
+Action1 - Quicker than a easy tenday.
+Action2 - Relax, I can do this unarmed. Maybe...
+Action3 - Just like my stem, my moves are strong.
+Action4 - They want food but I'm in a mood.
+Action5 - Rolling over like a courtesan.
+Action6 - I am more than what I appear to be.
+Action7 - About to make this their last meal!
+Select rare1 - Don't worry, I'm a pumpkin. Not a blumpkin.
+Select rare2 - Don't make me upchuck seeds. It's not good for my skin's complexion.
+Critical Hit - Gonna carve YOU into pieces!
+Critical Miss - Hold still! I just want to speak to you.
+Target immune - Brother, this ain't working. I need something else.
+Inventory full - I don't have any more space and I'm not shoving anything in me either.
+Spell Disrupted - My spell failed. This usually doesn't happen when i'm performing...

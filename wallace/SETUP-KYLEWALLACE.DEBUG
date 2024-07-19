@@ -1,0 +1,18 @@
+WeiDU v 24900 Log
+
+ C:\Users\nmrid\Desktop\bgmodding\sirwallace\Setup-kylewallace.exe
+[.\chitin.key] loaded, 881668 bytes
+[.\chitin.key] 191 BIFFs, 62570 resources
+
+ERROR: Unable to find DIALOG.TLK in:
+	.\^dialog\.tlk$
+
+Please run this program in your Infinity Engine game directory.
+
+FATAL ERROR: Failure("Unable to find DIALOG.TLK")
+
+		WeiDU Timings
+unmarshal KEY                    0.000
+loading files                    0.000
+stuff not covered elsewhere      0.000
+TOTAL                            0.000

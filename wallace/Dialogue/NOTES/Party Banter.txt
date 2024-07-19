@@ -1,0 +1,746 @@
+Party Banter: include cockfight
+
+W/Aerie: 
+Wallace: Sister Aerie, you've traveled with a carnival for years. Please tell me you know of something involving dice or ale? Or both?
+Aerie: Well Wallace, my uncle Qualyle wouldn't let me get involved with drinking or gambling but he did teach me a game to pass the time.
+Wallace: And...?
+Aerie: It's called Boulder,Parchment,Shears. It involves two people and...
+Wallace: Stop. Just stop sister.
+Aerie: B-but I?
+Wallace: Aerie, the next time we go to a tavern, I'm finding the nearest barmaid and getting you a drink right after we find a table roll dice with.
+Aerie: I... think I would like that, though without the barmaid involved...
+
+Aerie: Sir Wallace, I've seen you at camp during nightfall and there's something I've been wondering.
+Wallace: Normally I would be worried when someone stares at me for too long but for you, I'll make an exception.
+Aerie: *giggle* Thank you Sir Wallace. What I was saying was that when we camp I have never seen you sleep. It makes me wonder. Do you sleep? Do you ever dream?
+Wallace: I don't. I just meditate like the elves do I guess. I think it's called a "trance" or whatever those nature lovers believe in.
+Aerie: Do you ever dream of being something more? Of being somewhere else? Of being something else?
+Wallace: Maybe I'll find another pumpkin whose has the right curves. Maybe I'll stop all mortals from eating my kind. Who knows? 
+
+
+Once Aerie is in pain:
+Wallace: Sister, I know that you're hurting but there's some good things here on this soil. Taverns, the cards, waterfalls that...
+Aerie: I do not wish to hear it. I do not want to be pitied and comforted. Right now, I just want to be swallowed by the earth and see only darkness!
+Wallace: Aerie, I'm trying to help. I know...
+Aerie: NO YOU DON'T! You don't know what it's like to touch the clouds with ease and have your hands appear as if they can grab forests like a giants....*sob* you just don't...
+Wallace: ...You need a hug?
+Aerie: I...Yes...
+Wallace: Alright, come here.
+
+After Aerie is fine:
+Aerie: Sir Wallace, I wanted to thank you for earlier. My previous behavior was...
+Wallace: It's fine.
+Aerie: Let me at least say... I was in a bad place and you helped me. I would hope if the time comes I could do the same for you.
+Wallace: As I said, it's fine. Just crush a squash for me. Those guys make me right darburl. 
+Aerie: I'll see if I can turn some into stew for tonight's dinner.
+
+TOB: 
+Wallace: Sister Aerie?
+Aerie: Yes, sir Wallace? 
+Wallace: You're one of the good ones. Thought you should know.
+Aerie: And you're one of the best...pumpkins I've ever befriended.
+Wallace: To family! 
+Aerie: Here here!
+
+In response to preggers:
+Wallace: <PRO_BROTHERSISTER> <CHARNAME>, I'll be a pumpkin's uncle. Do not worry, he'll understand how to properly breathe in a pipe once he is old enough. I'll teach him.
+
+If abandoning Aerie:
+Wallace: I understand that she is with child but <PRO_BROTHERSISTER> <CHARNAME>, must we do this? Fine. For her own safety. I don't like it one bit though.
+
+----------------------------------------------------------------------------
+
+W/Anomen:
+
+Wallace: For a knight of the Radiant Heart, you're not exactly radiant yourself.
+Anomen: And what would you know of radiance? A creature like you could not understand the morals the order and I exemplify.
+Wallace: I know that you should be doing the right thing such as keeping people away from my kind. Be an example for you humans.
+Anomen: I am better suited for tasks that involve our leader and the many great battles we will have. Besides tis' a fruitless effort to stop everyone from eating one type of food.
+Wallace: You'll kill monsters but not stop at the murder of my kin? Feh, Greenhorn.
+Anomen: Take your problems to our leader if you feel so inclined. I, however, will focus on what matters most and ignore your petty words.
+
+Wallace: The way you talk to women makes me glad I am me.
+Anomen: I suggest you watch your tongue. If anything, you can't even court one of your kind to begin with.
+Anomen: Although, while last we were at the city you did suggest that a guard crush one after not meeting your supposed standards.
+Wallace: That's because that one said she got a scarecrow. And a bow and arrow she was willing to use to put holes in me.
+Anomen: It appears that the little 'kin is afraid of a challenge. 
+Wallace: Were it not for the fact that our leader needs you, I'd show you unarmed combat and best you within seconds.
+Anomen: The pot calling the kettle black. Ever hear of this saying?
+Wallace: What does metal have to do with this?
+Anomen: You lack both the wit and the intelligence to handle my words. For your sake, I take my leave.
+
+TOB:
+Anomen: Pumpkin, be you godless? I don't see you worshipping any gods nor do I see you performing rituals for sylvanus.
+Wallace: I don't worship but I dabble between two gods.
+Anomen: You "dabble"? With two gods? Be you mad? A follower must devote his faith to one and not worship either one whenever they meet your fancy.
+Wallace: I have to pay respects to both. They both focus on the things that I love.
+Anomen: And what do they focus on pumpkin?
+Wallace: Well Chauntea takes care of my family. Helps them grow, gets my baby brothers out of their growing stems in the ground and such.
+Anomen: Makes sense as she support the work of farmhands. And the other?
+Wallace: The other is intense. She focuses on the pleasures of life such as the intense dance done in bed-chambers and courting of the other sex.
+Anomen: Sune, I believe. I do not worship her but I have heard of her through various means...
+Wallace: I am sure you have just as I.
+Anomen: By Torm's gauntlet, keep away from me. I do not wish to know what goes on in the shell of a body and do not compare me to a being as lowly as you.
+Wallace: Pot calling the kettle black. I finally learned what it means.
+
+------------------------------------------------------------------------
+W/Cernd:
+
+Wallace: Cernd, I have a question for a forest man with years of tree watching under his belt.
+Cernd: You speak with a monkey's howl but I see there is more to your question than a simple bluster of the wind.
+Wallace: Cernd, do you know where to get the best pipe weed?
+Cernd: While I understand many of us pursue nature's delight I do not partake of such things.
+Wallace: You mean to tell me that you don't smoke? Not even a little.
+Cernd: Balance in all things is necessary even when it comes to the five senses.
+Wallace: Brother just be truthful with me. Druid to druid. Did you try some?
+Cernd: While it takes time to be at one with the forest, some need to use Mother's gift to attune to the earth itself.
+Wallace: You're never going to give me a straight answer to my questions are you?
+Cernd: Just as a man stares into the abyss of the ocean to reflect, so do you onto me.
+
+Cernd: The mother has many mysteries to her. A view that us mortals are not meant to comprehend. You, my ally, are one of them.
+Wallace: A wizard made me this way Cernd. But the mother did bless me with a large stem the ladies enjoy...
+Cernd: While a lion roars to scare it's prey, all sleep silently in the night.
+Wallace: I'm just saying...I'm packing a greatsword. Clearly. I measured it with a measuring cord.
+Cernd: Those who sail in a bog's mist cannot clearly see what lies ahead of them and turn mad when left adrift for too long.
+Wallace: Brother, are you saying that I'm not packing like a mule cart?
+Cernds: Silence speaks volumes.
+
+TOB:
+Wallace: You know, now that you're an archdruid, you can create a grove just for us pumpkins.
+Cernd: Nature has it's course for all involved. While it cradles us, it will let us return to the soil that birthed us.
+Wallace: My brothers are dying from the mortals. Especially the high nobles with robes flowing in the winds come to squash and eat in front of the peasants. 
+Wallace: They buy us just to show us off.
+Cernd: While your plight is understandable, we all must fulfill our role in nature's course.
+Wallace: So you're just gonna do nothing? While my kind goes through genocide. Alright, well, when you dying and <CHARNAME> isn't around, we'll see how I'm feeling.
+Cernd: If it is my time I will accept it.
+-------------------------------------------------------------------
+W/Dorn:
+Dorn: When are we eating him?
+Wallace: Try it. Go ahead. I know how to punch like a monk. Well, I can throw a punch. 
+Dorn: We crush our enemies into pulp. Would you like to see how I do it firsthand?
+Wallace: Y-you think I'm scared of you? 
+Dorn: I know you are scared of me.
+Wallace: I choose to stand over here. Only because my spells are better used at a distance.
+Dorn: You would do well keeping that distance. 
+
+Wallace: So, Dorn, how much can you lift? 200, 300lbs?
+Dorn: Enough to toss corpses into the river.
+Wallace: I can lift like, maybe a head, maybe two.
+Dorn: You can be my servant then, and clean the trash beneath me and <CHARNAME> feet.
+Wallace: Is it because I'm a pumpkin and that I'm used to the dirt?
+Dorn: You catch on quickly.
+Wallace: One of these tenday's you are going to get smeared in the dirt.
+Dorn: When that happens, it'll be after you choke under it.
+
+TOB:
+Dorn: I've seen the power you cast. The fiery hatred for us mortals in the midst of battle.
+Wallace: I don't deal with demons or blackguards Dorn.
+Dorn: Why do you deny the power you so rightfully deserve? After seeing all the carnage done to your kind?
+Wallace: I've done a lot of stupid stuff in my life but I'm not stupid enough to deal with things worse than what <CHARNAME> can turn into. 
+Dorn: To think such a fragile thing would deny unyielding power? Pathetic. 
+Wallace: Keep talking. I'm sure you'll keep saying that when you're burning in the Abyss while I rest within Chauntea's bosom.
+
+----------------------------------------------------------------------------
+
+W/Edwin:
+Wallace: You talk like the commoners who buy my brothers.
+Edwin: The monkey food speaks. Go away! (Rotted hay-nose dare have an low opinion of I. It would be better if he was simply burnt.)
+Wallace: Brother, you do realize we all can hear you right?
+Edwin: Keep away from me lest I use my many spells on you. (Dirt skinned and dirt covered fool.)
+
+Wallace: Edwin, don't stare at me like that brother. I'm not interested.
+Edwin: You're skin is more hardier than your brothers. 
+Wallace: Don't touch me brother.
+Edwin: Your skin could be like stone if I could handle it. (Does this dirt skinned chew not realize that I am his blessing? Buffoonery at it's finest)
+Wallace: Only the finest of lasses can examine me. You can just stand over there.
+Edwin: Then spit some seeds and make it quick. I do not have all day.
+Wallace: Brother. One. Those are my intestines. Two. I am not gonna trust someone who calls the other races servants or monkeys to handle my intestines.
+Edwin: Fine. Ignore the only intelligent one here. Don't be surprised when you get crushed beneath a giant's toe (Feck-filled Chamber pot...ignore my voice....)
+
+Wallace: So Edwin, loving your new form?
+Edwin: Do not speak to me you rotten planted gremlin! (Can they all not stare at me as such?)
+Wallace: You got what you farruking deserve and I got a interesting story out of it. Life sure is Chauntea's sweet tits!
+Edwin: I waste my time and breathe talking to these monkeys. (Once it is right we can see how fast that pumpkin burns quickly!)
+
+TOB:
+Edwin: So, it appears that you have lasted this long. You can thank me on your knees.
+Wallace: Brother, I have saved you countless times. And I am not going on my knees like those copper worth whores you pay for every time we go to a tavern.
+Edwin: Bah, my gift is wasted upon monkeys! (I should turn him into food. He'll have some use then.)
+Wallace: I would slice you into the pieces but <CHARNAME> want's you alive. Be grateful. And I'm not a monkey. I'm a pumpkin.
+
+--------------------------------------------------------------------------
+W/Haer'Dalis
+
+Haer'Dalis: My prodigious elk, your being itself inspires a parchment piece inked by it's fellow quill. 
+Wallace: Finally, someone understands my very being. My name should be echoed far and wide so that all mortals can hear!
+Haer'Dalis: Your existence could parallel the stories heard from the dalelands itself! Do you know the tale of Lanseril Snowmantle?
+Wallace: No. But I was born on a small farm.
+Haer'Dalis: Like the small home of Snowmantle.
+Wallace: Apparently a powerful wizard turned me to this.
+Haer'Dalis: The elk meets the Elvish deity Rilifane to be birthed anew.
+Wallace: The farmhands took me in to help out my kind.
+Haer'Dalis: Made the best of a bad tenday.
+Wallace: Protected my brothers from people wanting to eat them. By hand or mouth.
+Haer'Dalis: Mastery of both strategy and diplomacy. Able to move armies and mountains if needed.
+Wallace: And then <CHARNAME> found me.
+Haer'Dalis: Recruits both man and creature to take down the Zhentarim. This tale shall be grand enough to match your size and then some. 
+Wallace: ALL OF THE SWORD COAST SHALL HEAR OF ME! Ah, <CHARNAME>'s noticing. We can continue this later.
+Wallace: AND I AM NOT FAT!
+
+Wallace: You know Haer'Dalis, I always felt as if I was meant to be a bard of sorts.
+Haer'Dalis: My elk, all find their true calling within enough time. Perhaps the telling of plays shall be found between our travels.
+Wallace: No, not plays. I feel as though I was meant to be making people laugh. 
+Wallace: That I don't belong like this.
+Haer'Dalis: The briefest visions of death can make one see more than what they should. 
+Haer'Dalis: Perhaps those images may have you need rest. Those that see beyond the primal planes can make one lose their vision and more.
+Wallace: Perhaps. But I would have made a coin or two doing so. This, I swear to you.
+
+TOB:
+Haer'Dalis: Ah, my elk, the forest bends to your will as does all who stands in the way of the Earthmother's power.
+Wallace: Brother bard, take notes. The next play you have shall tell of all the ways the PUMPKIN channels his rage.
+Wallace: By the nine, I'm amazing.
+Haer'Dalis: My elk, keep chanting her name and I will keep singing your praises. LEAD ON!
+ 
+---------------------------------------------------------------------------
+W/Hexxat:
+
+Wallace: A vampire in our midst? 
+Hexxat: I apologize if my....
+Wallace: Don't be. It makes me feel safer that you're here. You can eat any mortal that tries to eat me. 
+Wallace: Make them feel how I feel.
+Hexxat: I do not make it a active practice to feed. You misunderstand me.
+Wallace: Ah. But you don't seem as bad as the others make you out be. 
+Wallace: They're not used to us outsiders.
+Hexxat: ...Wallace?
+Wallace: Yes?
+Hexxat: Thank you. Very few accept my kind.
+Wallace: OUR kind. Besides, when I need advice on persuading a pumpkin with curves, I know who to call.
+
+Wallace: I need some advice Sister Hexxat.
+Hexxat: Yes Sir Wallace? What about?
+Wallace: You know that your brother has skill with the ladies? However, my latest tactics might not be up to snuff to say for the very least.
+Hexxat: I see...
+Wallace: Seeing as you get a lot of action, can you help me refine my skill?
+Hexxat: I understand. But you must know that the one's I see are drained...
+Wallace: Oh, I want them to drain me.
+Hexxat: They are sucked dry.
+Wallace: I have a stem they could suck on.
+Hexxat: I leave them after I use them and before anyone notices.
+Wallace: No paying for child support before it's too late. Perfect way to end things.
+Hexxat: Sir Wallace, I appreciate our alliance but I kill the one's I see and abandon their corpses before anyone notices.
+Wallace: Right. You're a vampire. I forgot. 
+Wallace: I just see you as a sister.
+Hexxat: Wallace, I...ok. Let me tell you what I think you should do.
+Wallace:Ha! I'm about to be more popular than a wealthy merchant at a brothel in Waterdeep. 
+Hexxat: I ask you keep these thoughts to yourself. It makes it hard to focus.
+
+Wallace: You should have seen your face last we were at the tavern. Sister, I've never seen an innkeeper run so far.
+Hexxat: And I've never seen a pumpkin try to sweet-talk a cactus while being given a poisoned tankard.
+Wallace: Hey, she tried to talk me into bedding her. She maybe an elf but her kind still eats mine.
+Wallace: Besides, your advice worked. I was so close to exchanging seeds. 
+Hexxat: Next time, it will.
+Wallace: Hey, you smiled. 
+Wallace: It's a shame that it doesn't happen more often.
+Hexxat: Wallace, promise me that you won't change.
+Wallace: Only if you promise that you won't either.
+Hexxat: That I cannot do.
+Wallace: Then how about we go drinking together? 
+Wallace: I always did want to know if I could drink you under the table.
+Hexxat: It'll be hard to find a place that accepts my needs.
+Wallace: Then we'll drag a corpse, hide it and I'll drink all the tankards that I could find.
+Wallace: We'll see who goes under first!
+TOB:
+
+When approaching death:
+Wallace: Sister, this shouldn't happen.
+Hexxat: I know how you feel.
+Wallace: I DON'T want this to happen.
+Hexxat: Wallace, you must understand...
+Wallace: I KNOW! But I already lost Lenny! I don't want to you lose you too!
+Hexxat: You've seen this happen to others already.
+Wallace: My brothers don't have a choice. You have a choice. You can stay.
+Hexxat: And my choice being an eternity of ending lives, not being able to enjoy the simple things such as drinking and eating. Is this what you would have of me?
+Wallace: Sister, if this does happen, will you be good? Will it end peacefully?
+Hexxat: It will end. I can only grant you that much.
+Wallace: Hexxat, I just want...
+Hexxat: Stop. Before we do what is needed, I want you to listen.
+Hexxat: I spent my life or whatever this existence is fighting to survive. I killed who I needed and took what I can.
+Hexxat: I did not think that I would find any who accepted me with pure intentions but then you came along. While <CHARNAME> has his own reasons, you saw me as more than just a creature of the night needed to be slain.
+Hexxat: You are and will always be a friend to me. And I will miss you.
+<CHARNAME> : Response to wallace crying
+Wallace: That ain't no vampire. That's the sister Hexxat. Rest in peace.
+
+---------------------------------------------------------------------
+W/Imoen:
+
+Imoen: Sir Wallace, you're so big you can feed an entire halfling's family and their cousins twice-over.
+Wallace: You're so big, the guards post signs to guide tourists around you after you take a single step in Waukeen's promenade.
+Imoen: Yeah, you're so big, that giant's assume that you're their loathsome aunt, already with triplets waiting to be let out.
+Wallace: You're so big that Winthrop had to buy 3 inns to house you in and still wasn't enough to house your feet in.
+Imoen: Dirt skinned, wart covered, ankle biter!
+Wallace: Tantrum throwing, boil covered, copper harlot!
+Imoen:...
+Wallace:...
+Imoen: Ha! You sure can handle it Wallace.
+Wallace: It's sir Wallace. And you sure make all the mortals seem less evil to me. You're the only one that can take a verbal thrashing.
+Imoen: And you're the only one whose ego is as big as his body. But that's all for now, <CHARNAME> is staring.
+
+Imoen: Wallace, I know you don't like me eating pumpkins.
+Wallace: You LEAVE my kind alone!
+Imoen: Relax, I wanted to know what vegetable is ok for you to eat.
+Wallace: You want my advice? Alright, listen closely.
+Wallace: Pumpkins you leave alone. Squashes, you find them. Find them faster than you can find a Waterdeep orphan begging for coin.
+Wallace: Mushrooms are weird. They hide in the crevices of trees and just sprout out because they don't take showers. You mortals eat them but the rest of us don't involve ourselves with them.
+Wallace: Lettuce and Cabbages talk too much so you can eat them. I don't like the shape of carrots so I avoid them. Potatoes are right fierce. They know how to get down and dirty.
+Imoen: With all these talks of vegetables, it makes me wonder if you ever talk to fruit as well?
+Wallace: If I talked about fruit we would be here all day. <CHARNAME> sees us. We'll talk at camp later tonight.
+
+TOB:
+Wallace: So you and <CHARNAME> are gonna be gods right?
+Imoen: I don't know about him but I wouldn't want to. Being a power in the planes seems like more work. And I like being me. Just me.
+Wallace: If <CHARNAME> does become a god, then it means that we could get rewarded.
+Sister, he could get us servants and wealth. 
+Imoen: Well, what would you ask of him?
+Wallace: I want him to talk to Chauntea. Set me up with her avatar. Or the avatar of my people. Or a forest nymph.
+Wallace: I also want a nice home in planes. For me and my brothers. Where the wineskins are endless and maybe numerous orgies. 
+Imoen: Can't you just buy a tavern? I'm sure it's cheaper than just being a god. With less work. And you don't have to ask Chauntea for anything.
+Wallace: As a pumpkin, I am good. And I deserve the best. These mortals don't know it yet.
+Imoen: I'm sure they don't.
+
+-------------------------------------------------------------------------------
+W/Jaheira:
+
+Jaheira: You may have everyone else fooled but my eyes see right through you.
+Wallace: I don't know what you're on about. You got problems with pumpkins?
+Jaheira: You are no pumpkin but a man wearing pumpkin cloth. You insult Mother Earth by pretending you are her defender.
+Wallace: I am a pumpkin. People eat my kinds intestines. I defend my kind from these damning acts. What do you do?
+Jaheira: You question me when it is clear as the sky above that you are nothing more than a poorly dressed madman with black and green string tied to your waist.
+Jaheira: Despite our leader's poor choices, I will hold you accountable for what you do in the name of nature or this group. Or you "supposed" kind.
+
+Jaheira: Wallace. What exactly were you thinking back there?
+Wallace: Sister, they were buying my people. It's slavery. I had to take them away.
+Jaheira: You ran over a gnome family while carrying three pumpkins to a back alley. 
+Jaheira: I had to pay the guard three gold to look the other way while you ran off. 
+Jaheira: And do not call me your sister. It would be as if the Thayian Wizards had called me their brother-in-arms.
+Wallace: Aren't you a druid? These people are taking and pointing their butcher's blade at my kind saying "I like that one." and you're over here not saving anyone.  THIS IS YOUR JOB!
+Jaheira: My job is to defend nature. It is not stopping people from eating their meals. Whatever magic warped your mind, it appears to be beyond my healing capabilty. 
+Jaheira: Perhaps it is for the best, I would not want to know who made you this way. Or what.
+
+Wallace: Jaheira, the Harpers should be asking me to join. I do a good job helping my kind.
+Jaheira: Wallace, being a Harper is more than just telling people not to eat you.
+Wallace: Don't harpers hide and protect people from the shadows? I can do both.
+Jaheira: You barely can protect yourself. Most of the time you need a mother to tend to your wounds.
+Wallace: I do like mothers in more ways than one.
+Jaheira: Involve a conversation with me and those thoughts and I swear squirrels will be stuffing your body with nuts til the Winter Solstice ends.
+Wallace: Got it ma'am.
+
+Wallace: Jaheira, I can be stealthy. I can hide in plain sight with my brothers.
+Jaheira: Anyone that doesn't need lenses can clearly see a man in a pumpkin suit sitting on the ground.
+Wallace: If that's true, then why does <CHARNAME> and the other's see me as a pumpkin?
+Jaheira: Because....Ugh, I do not know. If anything, this magic of yours is able to fool all outside of me.
+Jaheira: Regardless, you stick out like a lake in the deserts near Saradush.
+Wallace: But I look good, don't I?
+Jaheira: How you survived this long is something only the gods know. And even then, this is a miracle to witness.
+
+TOB:
+Wallace: So about that husband of your's. Khalid.
+Jaheira: Say ill word of him and I swear on Mother Nature, you being a pie will be the least of your concerns!
+Wallace: I'm not trying to pick a fight with you. It's just...
+Wallace: He seemed good. The adventures you tell of him, makes me wish I had that. What you two had.
+Jaheira: Khalid was my other half. Wherever I went, no matter what danger I would be plunged in, whether it be my or <CHARNAME> hand, I could always turn to him and hear his voice.
+Jaheira: I would be fine. I could face the Abyss itself, knowing he was at my side. 
+Jaheira: I....I do not know why I am speaking such things to you. I certainly must be tired after our journey.
+Wallace: Tell me more when you can sister. I'd like to try and be his brother, if only for a few moments.
+Jaheira: I would like that. I would like that very much.
+
+Jaheira: Though this had been for a long time coming, Sir Wallace I must apologize. While I cannot see you as the others do, you mean well albeit occassionally crude.
+Wallace: Sister, you finally respect me. As a fellow druid. My sister.
+Jaheira: Do not let it get to your head or in this case you enlarged stomach.
+
+--------------------------------------------------------------------------------
+W/Jan:
+Jan: Sir Wallace, you remind me of a story involving the guards back home.
+Wallace: <CHARNAME>, you better stop a moment. The gnome's gonna talk and my dew could use some drying.
+Jan: Yes, dew, the very thing that the guards wanted. See, as a turnip farmer, most people don't understand the many uses of a turnip and how they could lead to felling of giants. The guards back in Waterdeep, (don't ask me how I got there. It involves Uncle Scratchy's card problem.) had insisted that they were being overtaken.
+Wallace: Does someone have an hourglass? I made a bet and want to see if I can get 3 silver's worth from this tale.
+Jan: Focus Sir Wallace. The guards had insisted that the dew from pumpkins were what the giant's sought for. The giant's army were as wide as one of the mountains north of the Sword Coast led by Joshua Freebeard. Joshua gave warning to the city but no one took him seriously. Who could take a guards warning that an army of giants were coming? 
+Wallace: I need some pipeweed lest sleep catches me.
+Jan: That's the thing about giants and armies. They both need sleep. The giants came after Waterdeep to find dew for ale and no one would give them any. The guards had asked their captain for orders but me and Uncle Scratchy stepped in saying that using our Aunt Petunia's turnip herb soup would be enough for them to stop. While the captain didn't believe us, we went to the nearest tavern, knocked out the staff and then proceeded to cook one of the biggest bowls of soup that the sword coast could ever hear.
+Wallace: I think my dew's most done. You finished yet gnome?
+Jan: Finally, the guards served the giants the soup with Joshua telling his men to just take the recipe next time. We gave them a fake one and took many a shilling that day!
+Wallace: Alright. I think we can move on now <CHARNAME>.
+Jan: Don't you want to hear the moral of the story?
+Wallace: Brother, do we have to lis...
+Jan: The moral is while pumpkin dew can be used, the real treasure to look out for is turnip stew.
+Wallace: Keep telling that story in taverns and markets. It'll make me breathe easier.
+
+Wallace: Jan, I think I might be willing to branch out my courting to other kinds. Do you have any advice on turnips? I've never courted one before.
+Jan: Courtship for turnips. Usually when people ask me this, I ask them if they went mad after seeing Golodon's underwear and that was something that even Torm would go mad looking at.
+Wallace: I don't believe you when you say other people ask you for courtship advice for turnips.
+Jan: You wound me. My stories are as true as <CHARNAME> heritage. Anyway, seeing as you are a desperate, I will help you but you have to go after Delphine's turnips from across our home.
+Jan: The advice for turnip courtship all came from my cousin Johnanna's ex-fiance. See, it all started when the guards received a new decree telling us that taxes across all foods were to increase especially pumpkins. 
+Wallace: We are valuable indeed, but I need to learn how to bed a turnip my brother.
+Jan: Don't be so impatience. It won't help with the calishite itch. Anyway, the Johnanna former fiance had learned of this and asked us to see if it was possible to use the turnips we grow and arrange them in her form. Pumpkins required more gold and he won us over with his honesty. We gave him the turnips with him thinking that this was a surefire way to earn her heart.
+Jan: However, after placing the turnips on the ground, he took her hand and brought her in the living room of her home. 
+Wallace: And?
+Jan: She was horrified by what she saw. He didn't realize that her fiance thought she was slimmer than what he shown and got rid of him in seconds. 
+Wallace: What was the point of this?
+Jan: Why Wallace, you tell her that she's skinnier than she appears to be. Unless she's like Aunt Petunia, then you tell her the truth lest you be turned into stew.
+Wallace: Brother, you could have said that first. 
+Jan: Well, were would the fun be by simply telling you? 
+
+
+TOB:
+Wallace: Jan, I still find it incredible that a simple turnip gnome such as yourself is still alive during these trying times.
+Jan: I find that quite offensive. Golodon had said the exact same thing while I was doing his dirty washcloths under his coin.
+Wallace: I actually meant no offense. Honestly, the fact that we two are still alive is miraculous. 
+Jan: We are only alive simply because <CHARNAME> has recognized us for our vegetable prowess and knowledge. It reminds me when us Jansen's started selling in the slums back in Athkatla.
+Wallace: You know, it's funny that you mention that but we never did manage to cross paths. We were selling on opposite sides and yet I never heard of the Jansen name before I met <CHARNAME>.
+Jan: You see Sir Wallace, this is simply because our name is only heard in the shadows and those we need to know. After working on our turnips for generations, we have to entrust our turnips only to those we can trust. That reminds me of a tale before I started traveling with <CHARNAME>. 
+Wallace: Jan?
+Jan: Yes, sir Wallace?
+Wallace: Don't ruin the moment right now. Tell this story later when we are resting at camp. It's more appropriate. 
+
+
+------------------------------------------------------------------------------
+W/Keldorn:
+
+Wallace: You don't know how to live, do you? Paladin's never party hard do they?
+Keldorn: The path of the righteous grants me joy with my deeds. To know that I have helped the innocent gives me peace of both mind and soul.
+Wallace: Doubt your wife can say the same.
+Keldorn: What slight have I made that has brought my beloved into this?
+Wallace: You live by many rules but not enough time spent on family. My brother-in-arms Lenny told me that celebration alone is no celebration at all.
+Wallace: Save all the people you want. Your family won't be able to celebrate with you.
+Keldorn: They understand my duty. They understand my devotion and what Torm needs of me.
+Wallace: Bet your daughter won't remember you if you keep on "this path".
+
+Keldorn: Sir Wallace. You are no knight yet you use the elements to fight with the fury of one.
+Wallace: I am a knight of my pumpkin clan. Me and my brother-in arms are all knights. 
+Keldorn: Being a knight sir Wallace is many things. It requires devoted service to a righteous cause and the needed discipline to sustain it no matter the circumstances.
+Wallace: You saying I can't do it? I'm not good enough because I'm a pumpkin?
+Keldorn: I did not say that. I am telling you that these traits are what is needed for what you must do. 
+Keldorn: If your kind is truly alive, then it falls to you to defend them. It a duty that never ends nor is it a duty that cannot be irked.
+Keldorn: Although I cannot understand how one can communicate with the plant-life I am sure this is a question only Chauntea has the answer to.
+
+TOB:
+Wallace: I don't agree with the choices you made, but you are strong. And devoted.
+Keldorn: Likewise. I cannot agree with your hedonistic lifestyle but I can say you fight with fury that matches the flames of Elysium had I been given the chance to look upon them.
+Keldorn: And I must admit, the way you talk about your brother-in-arms, especially Lenny, I believe his name was. I am glad that I have earned your trust to discuss personal matters.
+Wallace: Well, you're a paladin. You probably can say that he died as a good brother to me.
+Keldorn: In my growing years, many a brother-in-arms had fallen in war and I could do nothing to prevent such a thing. All I could do was give a prayer and ensure that his words and actions were not forgotten. Especially to those they left behind in service to Torm.
+Keldorn: From what you have told me, know this Sir Wallace. Lenny was a pumpkin devoted to his family such as yourself. He spent his life, taking jaunts through the fields with the ones he loved, sharing his rich soil to those that were wilting, and rolling to the frontlines so that others could not be purchased. To let others of his kind spend what remaining days they had before taking their journey to beyond the Fugue Plane.
+Keldorn: He knew what his kind were subjected to and still protected them with a smile. He died devoting himself to the lands and people he loved. He was good brother Wallace.
+Wallace: That...was beautiful Sir....
+Keldorn: Come, rest your head on my shoulder. It has been a long day and good men shouldn't be subjected to emotional torment.
+Wallace: Thank you Brother Keldorn. You're one of the good ones. Maybe even one of the best.
+
+-----------------------------------------------------------------------------
+W/Korgan:
+Korgan: Wallace, your fattening size makes it hard for me to see anything else in me' way. And the magics you be miscastin' has me havin to work twice hard meself to protect you frail dirt humpin body from the enemies that are left dawdlin. 
+Korgan: If <CHARNAME> desires it, I'd cleave ye in a second and it only take another to make pie from yer innards.
+Wallace: My round size is nothing compared to that pot belly of yours. And you can't even catch up to me, by the time you reach the field, everyone else is dead no thanks to you. You're slower than a diseased starving mule.
+Korgan: Listen here you long-limbed, wart-covered, soil muncher. I carried you because you can't handle a scratch on that fragile teapot you call a body. If you be steppin' in my way, you'll be in pieces for the hounds to eat.
+Wallace: And you look like gnoll-droppings run over by a cart on the side of the road.
+Korgan: Gnoll-droppings? Color me impressed pumpkin... I did nae expect ye to be swinging so low. 
+Wallace: You and I should go to a tavern soon. We'll be swimming in tankards and in lasses!
+Korgan: <CHARNAME>, let's hurry it up. I got a hunger that be mighty fierce and if it won't touch a drop of blood then it best be for ale.
+
+Wallace: Korgan, you should come back to the farm. The pumpkins could use someone like you.
+Korgan: And why would I spend me time frolicking like a tree-hugger chasin his first skirt?
+Wallace: It's not for seeing. I got a few people that keep throwing eggs at the farm and I think they could use a cleavin or two.
+Korgan: Now you be speakin the tongue of me dwarven clan. Tell me where they be and the night will be howlin' with their screams!
+
+TOB:
+
+Wallace: And that's how I almost got shot by an arrow. Chauntea bless me for my stem that still remains strong for the lasses.
+Korgan: Wenches, I understand but how does it work?
+Wallace: I have stem and seeds. It should be obvious.
+Korgan: It's not. 
+Wallace: You lack imagination Korgan. I'm shocked. I thought you knew how it works.
+Korgan: For the longlimbs and I, stoutfolk, sure. But ye are not mortal. Ye be whatever ye be. 
+Wallace: Guess you dwarves are as close-minded as the caves you reside in. 
+
+------------------------------------------------------------------------------
+W/Mazzy:
+
+Wallace: I don't like your kind Mazzy.
+Mazzy: Such talk is not to be out of the mouth of a knight. Why exactly do you harbor hatred for my kind?
+Wallace: Do you know how often your kind eats mine? At the end of every tenday, halfling families show up out of the carts with their pantaloons tucked into their boots. I had to grab my brother's many times to escape their mouths. 
+Wallace: Do you know what it's like to choose between the one's you love? I couldn't save them all.
+Mazzy: I did not expect to hear a vegetable grieving over others this day.
+Wallace: Of course you wouldn't. You're a warrior and the only thing scary about you is that you don't even have an account in the Sword's Coast Trader's Bank.
+Mazzy: How does banking relate to any of this?
+Wallace: Everything Mazzy. Everything.
+
+Mazzy: Sir Wallace, I apologize for my lack of sympathy towards your plight. I know what it is like to have others look at me as if I am lesser than they.
+Wallace: Good. Not many learn but I'll look past it. You can also stop eating pumpkins along with your families and cousins.
+Mazzy: Sir Wallace, while your concern is understandable, you must realize that halfling's, like many other races, are great in number. Surely, you realize that you simply cannot convince all of them to stop eating pumpkins?
+Wallace: Just like you telling everyone you will be a paladin?
+Mazzy: The two are not equal. Justice will always need to be met but you cannot tell people to stow their hunger!
+Wallace: That's what they all say. Shove your apologies for someone who cares!
+
+Mazzy: Wallace. I would like a word with you. Privately.
+Wallace: I don't bed mortals. I can do forest nymphs but not halflings.
+Mazzy: Wallace, I ask you listen to my words before you make such baseless accusations. And mind you, I still hold true to my beloved Patrick. 
+Mazzy: May Avoreen bless his soul.
+Wallace: My bad. Go ahead. I'll listen.
+Mazzy: It was not my desire to minimize your troubles. I need not repeat what words I had shared before. 
+Mazzy: Furthermore, while I cannot relate to a good amount of your troubles, I can try and ease your pain. I will do so by not eating your kind.
+Mazzy: I will also try and spread word to my families that pumpkins are not to be eaten but just simply grown. I will...
+Wallace: Mazzy, relax. I took things a bit too far. I was reminded of all the halflings that had unjustly took my kind to perform acts of cruelty.
+Wallace: I do not hate on halflings specifically. I just think all races are terrible outside of mine for what they do.
+Mazzy: Wallace, I do not believe that this is the stance you should be taking.
+Wallace: Let me finish. This "stance" let's me realize that the people who do listen to me are people worth more in their weight in gold. 
+Wallace: Thank you for choosing to help me Sister Mazzy, but we have <CHARNAME>'s quests to finish and if we stayed around spreading the word of my kind we wouldn't have gotten anything done.
+Mazzy: Sir Wallace, I believe this is the first time I've heard you included the word sister while addressing me.
+Wallace: Don't worry about it. We're brothers and sisters-in-arms. It should go without saying.
+
+TOB:
+Wallace: Sister Mazz, come back to the farm with me. You can be a honorary paladin of the pumpkins. You just need to spend time with me and the brothers.
+Mazzy: Sir Wallace, tis' a kind offer but my sword-arm and my devotion belongs to Avoreen.
+Wallace: I get it. It's just that it's frustrating. Your god should have done something already.
+Mazzy: Sir Wallace, the will of the gods is something that cannot be known to us mortals. Their actions can only be controlled by them.
+Wallace: Sister, you deserve this and so much more. I hope that when the time comes, I can see you in all your glory.
+Mazzy: I pray that the time comes soon but for now <CHARNAME> need's us. Let us push onwards brother!
+
+-------------------------------------------------------------------------------
+W/Minsc:
+
+Minsc: Sir Wallace, why exactly do you look at my hamster with such scorn? 
+Wallace: Because I know that hamster is looking at me with hunger in his eyes. I know because I can hear him say it.
+Minsc: You understand Boo? Is this is a jest as Minsc is not one understanding such jests often?
+Wallace: Oh, I know what he says. Just keep that hamster away from me. Even better, don't let it touch me.
+Minsc: Minsc swears that no evil will be done so long as Minsc and Boo are here. But Minsc sees you are not of the having trust so we leave you alone.
+
+Minsc: Boo. Is it already time for your afternoon snack? You cannot be eating so often lest you fatten up right before your daily nap.
+Minsc: Here. Minsc saved up a flower before for you to munch on. Minsc asks you do not eat all of it at once lest you have a stomachache that not even butt-kicking could work off!
+Wallace: MINSC WHAT ARE YOU DOING?
+Minsc: Minsc does not understand. Minsc is simply giving Boo his afternoon snack. It must be done so Boo does not rummage through our pantaloons.
+Wallace: Oh god. I'm gonna....BLARGH!!!
+Minsc: Sir Wallace hold. The presence of evil must stink so bad that Sir Wallace must be...what is that Boo? Sir Wallace, Boo here says...
+Wallace: Brother, eating that is like a rat seeing a cat eat another rat's intenstines right in front of him.
+Minsc: Wallace, do not be mentioning cat's in front of Boo. Boo is braver than most Giant Miniature Space Hamsters but Boo get's jumpy around cats.
+Wallace: Just don't eat that right in front of me. <CHARNAME>, I'm gonna need a few seconds. Or ten.
+
+Minsc: Wallace. Waaaaaalllllaaaacceeeeee.
+Wallace: Brother Minsc, what it is?
+Minsc: Boo wishes to ask you a question, my orange skinned friend.
+Wallace: Sure but keep him a few feet away from me.
+Minsc: That is the thing Sir Wallace. Boo wishes to become closer to you. He thinks that you are scared of him.
+Wallace: Do you know how many of his kind eat my people? I can't even see him if he's below my waist. 
+Wallace: And it's not just hamsters or the Giant Miniature Space one's. Rabbits, Elk and Deers oh my! And more brother. So much more.
+Minsc: Well this is why Minsc and Boo is here. To inspire you to face your fears so that when evil rears it's ugly head with your fears, we will help you conquer them with your weighty stomach. 
+Minsc: FEEL THE STARE OF MY HAMSTER BURNING INTO YOUR HEROIC SOUL!
+Wallace: GET THAT THING AWAY FROM ME BROTHER! I WANT NOTHING TO DO WITH IT!
+Minsc: Wallace, do not run off. Boo promised he would not harm despite what tasty eyes you have.
+
+TOB:
+Minsc: How long are you going to ignore the stare of my hamster? Even you cannot miss the burning hole that is forming on your body from Boo.
+Wallace: Brother, I am not scared. I just don't want them near me. Imagine if I had a pet dragon the size of the sword coast. Would you want it near you?
+Minsc: Minsc and Boo would be impressed if such a thing could happen especially to one who grabs the elements as easily as Minsc grabs evil by it's neck.
+Wallace: Brother, your head must've been really damaged. It's a miracle you survived this long.
+Minsc: Minsc is grateful for Boo's guidance and fury. But Boo thinks you need his guidance as well. Boo wishes to pet him.
+Wallace: You want me to pet the thing that eat's my kind?
+Minsc: Boo swears he will not lay a claw on your pumpkin skin my friend.
+Wallace: And if I do this, you will leave me be?
+Minsc: Minsc swears on Dynaheir's soul. 
+Wallace: Alright. If you are that serious, hand him over brother but if he bites my stem I'm throwing him.
+Minsc: Boo is used to this. Now, here, feel the cute fur of my hamster.
+Wallace: Oh god. He's so furry. I'm not used to this brother.
+Minsc: That he is. And Boo appears to be rolling around in your hands. This is what Boo does right before he rests from placing boot in backside.
+Wallace: Huh....this is nice brother Minsc.
+Minsc: It is indeed. Boo seems to have fallen asleep and <CHARNAME> is looking. Gently hand Boo back so that he doesn't awaken. Boo needs his rest lest we all fall under his fury.
+Wallace: I'm still scared of some of his kind. But not him. He's good.
+
+--------------------------------------------------------------------------------
+W/Nalia:
+
+Nalia: Don't you think that the owner's of the farm deserve to give more to the workers? 
+Wallace: Huh...what?
+Nalia: Wallace, were you paying attention to any of the words I was saying?
+Wallace: Gods, you're just like that carrot I was courting before I left. And thank Chauntea's bosom I did.
+Nalia: I fail to see how that relates to any of this. Nor to helping those less fortunate.
+Wallace: The carrot I was courting kept saying how the soil should be given to the others. 
+Wallace: All I cared about was having my stem get some action.
+Nalia: Wallace, your crassness is as equal as the void of empathy you lack. Have you not cared for the men who grew both you and your brothers?
+Wallace: I don't. They help sell us. Are you telling me it's ok to be sold into slavery? Like the nobles of your high station do to the peasants?
+Nalia: I did not mean to...
+Wallace: All you do is talk Nalia. Honestly, if I knew the carrot had a relative I'd get some cotton to cover my ears.
+
+Wallace: Nalia, you have friends in high places right?
+Nalia: Yes, why exactly do you ask?
+Wallace: With all the gold we get from <CHARNAME>'s travel, can't you bribe the guards and nobles to make laws?
+Nalia: The most I can do is suggestions. 
+Wallace: Then suggest them. Use magic.
+
+TOB:
+Wallace: Nalia, I saved your arse many times. You owe me.
+Nalia: Sir Wallace, I didn't expect you to speak with me but the same could be said to you as well.
+Nalia: Why are you bringing this up anyway?
+Wallace: You own a castle, you are part of a wealthy family, you own land. Least you could start telling people not to eat my kind.
+Nalia: Of course Wallace. Knowing that such injustices exists, I would not be able to stand idly by and let them happen.
+Wallace: Also, make me a king. 
+Nalia: Now you're pushing it.
+Wallace: You got <CHARNAME> to be a lord, why can't I be a king? Ah, never mind. <CHARNAME>'s looking. Let's just go.
+
+-------------------------------------------------------------------------------
+w/Neera:
+Neera: Wallace. Wally. Wall. 
+Wallace: It's Sir Wallace, ok. Don't act is if we can be friends so long as your magic can set an entire plantation on fire.
+Neera: It's not on purpose, I swear! It's just accidental. Unless something evil gets in.
+Wallace: Sister, I've seen too many mages use pumpkins for target practice. Man, seeing my brother burn alive is just....
+Neera: Were they the Red Wizards? I hear that the newer ones do that after they take one or two swigs from tankards they bought in a tavern.
+Wallace: I don't trust you or your magic Neera. The rest I can but you...I can't...
+
+Neera: Wallace, I know that you...
+Wallace: Oh god, what is it?
+Neera: Let me finish! Geez, you could at least hear me out before you send me away.
+Wallace: ....
+Neera: Don't give me that look. It makes apologizing that much harder. 
+Neera: Ok, so you know how I'm a wild mage right?
+Wallace: ....
+Neera: Well, I can't control it. These surges come out like a bolt of lightning. <CHARNAME> say's that they need me to use them when necessary. I can only hope that it helps rather than hurts us.
+Wallace: I'm not going against <CHARNAME>'s decisions but I'm not calling you my sister.
+Neera: You just called me your sister the last time we spoke.
+Wallace: That's different and you know it. 
+Neera: I don't. I really don't.
+
+TOB:
+
+Neera: Wallace, don't you feel any form of magic being what you are?
+Neera: You might be the result of a wild magic surge gone wrong.
+Wallace: I am no accident! Just because my mother doesn't write me letters, doesn't mean that I was unwanted.
+Neera: Wallace, I didn't mean too...
+Wallace: My father doesn't either. He said he left to go grab the milk from the farm and I've yet to see him since I was three.
+Neera: I don't think I'm qualified for this. I'm going to stand over here. Sorry!
+
+------------------------------------------------------------------------------
+w/Rasaad:
+
+Rasaad: Sir Wallace, those markings on your body appears to be a optical illusion are they not?
+Wallace: Yeah, I put them on so that people think I'm used when they visit the farm. Get's them everytime.
+Wallace: I know you work with tattoo's. You want to get a new one? 
+Rasaad: These artistic techniques are not known to me. Would it be alright if you could tell me?
+Wallace: Come closer, there's a specific way Brother Rasaad to get it done. First, I'll need to borrow your shaving tools and ink.
+
+Rasaad: Sir Wallace, in our last fight I've seen you use your fists in desperation.
+Wallace: Brother, what else was I supposed to do? They were in my face trying to put me down.
+Rasaad: Fighting like a wild animal is better than being idle and waiting for death to come. However, you need to know where to hit.
+Wallace: You mean for the stem? I know that....but not from first hand experience. I'm good with courting others.
+Rasaad: Of that I have no doubt, but you're martial prowess needs work. Come brother, follow my movements. Strike as I do.
+
+Wallace: Brother Rasaad, when you see Alogoroth let me know. I wanna see where he lives.
+Rasaad: And what will you do, once you possesses that knowledge?
+Wallace: Let's just say, he see's a pumpkin but I got a little something FOR him.
+Rasaad: Were that it would be that easy to find him. But your sympathy eases the more heavier burdens on my mind. Come, let's us walk forward and see if we avenge my brother.
+
+TOB:
+Wallace: Brother Rasaad, once all this settles, why don't we celebrate back at the farm with some ale and pipeweed?
+Rasaad: Both the Sun Soul Order and Selune forbid us from partaking in such acts. 
+Wallace: Come on now Brother. Just a little bit. Gotta enjoy the simple things in life. We can have <CHARNAME> join us and we'll drink til dawn!
+Rasaad: In order for me to me be at my best, I cannot consume such things. 
+Rasaad: However, were the two of you planning on celebrating I shall join but only to ensure that things are not out of control.
+Wallace: So long as you're there, that's all that matters.
+
+--------------------------------------------------------------------------------
+W/Sarevok:
+
+Wallace: One wrong move towards <CHARNAME> and I'll show you what it's like to grow beneath soil.
+Sarevok: Ha, is the pumpkin addressing me? You think I care for the opinion of a creature whose existence lasts for only a few moments?
+Wallace: I am. Besides, at least my family cares for my existence. 
+Wallace: Why don't you write a letter for your father? Oh wait, you can't. Both of your fathers are dead.
+Sarevok: You dare mock not only me but also <CHARNAME> as well! 
+Wallace: <CHARNAME>'s father was Gorion, not Bhaal. Unlike you, he at least has people who care about him.
+Sarevok: Were it not for the fact my <BROTHER/SISTER> has use for you, I would cleave you into pieces and feast on your remains. 
+Sarevok: Now leave me be, lest that happens sooner.
+
+--------------------------------------------------------------------------------
+W/Valygar:
+
+Valygar: To tamper with the forces of life is something that shouldn't exist to begin with in the planes. Whatever this creature is, it is an abomination that should not have been birthed.
+Wallace: <CHARNAME>, I didn't even say anything and I'm already getting hounded.
+Valygar: Wallace, your existence was brought about by magics similar to the ones that curse my family. Now, to see such magics create more mages worries me to no end.
+Wallace: But it's not my fault. I wasn't even asked to be born brother. 
+Valygar: That's not my point. Wallace, your kind shouldn't exist in the first place.
+Wallace: Do you just want me dead? Is that what this is?
+Valygar: No, it is not. Your very being disturbs me.
+Wallace: Get used to it. So long as <BROTHER/SISTER> <CHARNAME> needs me, I'm staying right here.
+
+Valygar: To possess the powers of nature and yet to pursue simple pleasures. I do not like the magics you wield pumpkin but your company is appreciated. To an extent.
+Wallace: You hate magic as much as I hate the mortals. I didn't think it was possible.
+Valygar: I suppose such things are true. But for now, we travel in silence.
+
+TOB:
+
+Wallace: Brother Valygar, you fight with the fury of my brothers and I.  
+Wallace: We should join a tavern brawl. We'd make quite a killing after pounding back tankards celebrating our adventures.
+Valygar: I am not your brother and I do not go to such places. The silence of the woods and my cabin is all that I need.
+Wallace: I get that but Brother, there's more to life than walks in the forest.
+Valygar: That may be, but to me it is all that I need.
+
+--------------------------------------------------------------------------------
+W/Viconia:
+
+Viconia: So we are reduced to having this as an ally. And to think that most iblith think of my kind poorly.
+Wallace: <CHARNAME>, I didn't start a fight with her but I'm not afraid of her. I'll throw her back to the Underdark where she belongs if needed.
+Viconia: <CHARNAME>, this iblith should begging on his knees for forgiveness and praising your generosity by being your slave. 
+Viconia: He would do well cleaning the ground with his tongue.
+Wallace: <CHARNAME>, can you please tell this dusk rose that my kind suffers worse pains than she could ever experience?
+Wallace: To be eaten alive is one thing but to be taken as a slave is worse.
+Viconia: <CHARNAME>, you should....oh look at what you made them do.<CHARNAME> has already gone on ahead. Were I you, I would strip my flesh to make amends.
+Wallace: And I would shove your magics where the sun don't shine but we don't have time.
+Wallace: Come on, <BROTHER/SISTER> <CHARNAME> won't forgive us if we just kept spitting venom at each other.
+
+Viconia: I've a question for you, iblith.
+Wallace: I'm a pumpkin. Remember it, dusk rose.
+Viconia: How do we know you are what you say you are? That you are truly a jaluk as you appear to be?
+Wallace: Do you see my face? My handsome good looks? All of the ladies love what they see.
+Viconia: You say that but yet none of us see any form of manhood in between your legs.
+<CHARNAME> - options regarding what exactly we're seeing
+Wallace: I...uh...by the gods, I might be a girl. Oh gods no. 
+Viconia: Do not worry <CHARNAME>, give him a day or two. He'll go back to being his foolish self. This was a fun diversion to say for the very least.
+
+TOB:
+Wallace: Viconia, if you need a place to rest in, we could just buy the farm back in Athkatla. It would be empty but you could rest easy there.
+Viconia: Has my charms finally broken through the shell you call a body? Do you desire a night in roll, to feel my warmth on your curves?
+Wallace: Gods no. It's just that <CHARNAME>'s told me some things about you. We're more alike that you would desire, I suspect.
+Wallace: And I am sorry to hear about the troubles you had. With all the gold, we acquire I plan on buying the area anyway and I can use another person to help out.
+Viconia: You presume much iblith! And I was merely jesting when I offered the mere possibility of touching you.
+Wallace: I know you don't mean it Sister Viconia but it would be smarter for you to listen to <CHARNAME>'s advice. It'd be a shame if you weren't given a chance to have a good life.
+
+-------------------------------------------------------------------------------------------------------
+W/Yoshimo:
+
+Wallace: I don't trust you. I've seen people like you look at my kind before.
+Yoshimo: I am surprised that your kind can talk at all. At this rate, perhaps the fruits from trees and bushes will beg for mercy as well.
+Wallace: You're like a scarecrow. My kind will be dying and you'll be singing like a bard last's moments in the Umar Hills. Not helping when we need you most.
+
+-------------------------------------------------------------------------------------------------------
+W/Wilson:
+
+Wallace: A bear joins our group? Really?
+Wallace: I am going to make one thing clear. You look at me funny and I'll cut all the fur off your body.
+Wilson: Rolf.
+Wallace: You don't eat pumpkins? Oh thank Chauntea's bosom.
+Wilson: Growl.
+Wallace: Ok but I do not know where you're going to get honey. I don't make any.
+Wilson: Growl?
+Wallace: If we go to a forest then sure, but don't expect me to fight off bees for you. I already got warts all over my body. I don't need beestings on top of it.
+
+Wilson: Rolf.
+Wallace: If you're cold, then get a sweater.
+Wilson: Rolf.
+Wallace: Ok but I can't conjure up a sweater. If anything, we'll go back to Atlkatla to get you one. 
+Wilson: Growl.
+Wallace: I'll get you a red one. I promise. Now, don't eat too much honey. If you do, you'll be too full to eat your enemies. 
+Wilson: Growl.
+
+TOB:
+Wilson: Rolf.
+Wallace: I know why Wilson but I swear if I was a god I would outlaw it entirely.
+Wilson: Growl.
+Wallace: And what am I supposed to do? I can't kill people forever. Even if I could, it's too much work.
+Wilson: (slumps) Bowwww....
+Wallace: If I become a god, I will need some warriors in my army. You want to join my crew?
+Wilson: Rolf!
+Wallace: That's what I like to hear! You and me taking on the entirety of the sword coast! We'll outlaw pumpkin eating and bear hunting. 

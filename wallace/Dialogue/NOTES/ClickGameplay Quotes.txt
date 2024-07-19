@@ -1,0 +1,67 @@
+Click/Gameplay Quotes:
+Morale failure - I'm not getting cooked here!
+Happy - Let's get smashed and find some wenches! We farruking earned it!
+Unhappy-annoyed - Brother, what am I even doing here?
+Unhappy-serious - You disappoint me and all pumpkins throughout the sword coast.
+Unhappy-break - I'm done. Next time I see you, I'll bury you in the earth.
+Leader - Me? Leading? Sure but let's find the nearest tavern first brother!
+Tired - I know I don't need to sleep but I can feel my pulp getting mushy. Can we rest?
+Bored - And I thought sitting in sunlight was boring...
+BattleCry1 - Don't mess with the stem!
+BattleCry2 - FOR THE BROTHER LENNY!
+BattleCry3 - Brother, are YOU good?
+Damage - (Insert hurt sound here)
+Hurt - Pumpkin pie? I don't wanna die.
+Dying - It was fun while it lasted brother...
+Forest - Being here reminds me of the farm back home. Once I get back, I plan on taking my fellow Brother-in-arms here.
+City - Alright, so...when are we courting the wenches around here?
+Dungeon - Not enough sunlight. And how do the mortals clean themselves here?
+Day - Mind if we stay here for a while? My dew needs drying.
+Night - Feels like every night I grow a pound or two. Good thing I'm traveling so much with you guys.
+Select1 - Say Word and I will follow.
+Select2 - Who needs to get squashed?
+Select3 - Be quick, I need to be watered.
+Select4 - You want my looks or my skills?
+Select5 - Don't get me crushed brother.
+Select6 - Tell me what you need.
+Action1 - Faster than a easy tenday.
+Action2 - Relax, I can do this unarmed...Maybe...
+Action3 - Just like my stem, my moves are strong.
+Action4 - They want food but I'm in a mood.
+Action5 - Rolling over.
+Action6 - I am more than just a potrait to be made.
+Action7 - About to make this their last meal!
+To death - General - Rest in peace Brother. You won't be forgotten.
+Select rare1 - Don't worry, I'm a pumpkin. Not a blumpkin.
+Select rare2 - Don't make me upchuck seeds. It's not good for my body's complexion.
+Critical Hit - Gonna carve YOU into pieces!
+Critical Miss - Hold still! I just want to talk to you.
+Target immune - Brother, this ain't working. I need something else.
+Inventory full - I don't have any more space and I'm not shoving anything in me either.
+Spell Disrupted - My spell failed. This usually doesn't happen when i'm...performing...
+Bio - When asked about his past, WALLACE explains his many solo jaunts throughout the pumpkin farm where he grew up. Many of which start off with the common folk trying to test if him and his brethren can be goldenpanned for their stomachs or gnoll droppings to be tossed in a chamber's pot. He strongly states that all pumpkins should not be devoured and should be left to grow in peace. However, upon further listening you find out he was not always this size and that after a wizard had casted a spell onto him, his entire being had changed. Despite this noticeable change, he seems to be taking it quite well.
+
+
+If asked to leave:
+Wallace: You sure you want me out? You want to lose all this pumpkin?
+
+If undo:
+<CHARNAME>: Brother Wallace, I've changed my mind. I still need you in all your pumpkin splendor.
+
+If asked to wait somewhere:
+<CHARNAME>: I need you to wait nearby for me. Take our some pipeweed to pass the time while I do what is needed ok?
+Wallace: Sure thing. I could use a break anyway <CHARNAME>.
+
+<CHARNAME>: I have no need of you right now. Do you have any idea where exactly you would want to wait for me while I finish my business?
+Wallace: Let's meet up at the Copper Coronet. We can catch up and exchange stories then. Be safe for me, alright <BROTHERSISTER>?
+
+When returning to meet up (Copper Coronet):
+Wallace: It's my <PRO_BROTHERSISTER> in arms! I was just getting smoke from my pipeweed but...you need me to roll out?
+If yes:
+<CHARNAME>: I have need of you and your pumpkin strength. Come along now.
+If no:
+<CHARNAME>: Not as of right now. Perhaps at a later point.
+Wallace: Alright. Well, I'm going back to my pipe. You know where to find me.
+
+
+

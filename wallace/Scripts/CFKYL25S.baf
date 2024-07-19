@@ -1,0 +1,60 @@
+// Branwen's ToB script. Read this after SoA script, O#BranS.baf
+
+// Branwen talks immediately when summoned.
+IF
+Global("CFKYLESummoned","GLOBAL",1)
+THEN
+RESPONSE #100
+StartDialogueNoSet([PC])
+Wait(1)
+END
+
+/* Starting ToB Talks
+IF
+InParty(Myself)
+Global("CFKYLETalkToB","GLOBAL",0)
+THEN
+RESPONSE #100
+RealSetGlobalTimer("CFKYLETimerToB","GLOBAL",1800)
+SetGlobal("CFKYLETalkToB","GLOBAL",1)
+END
+
+// Just like with SoA, we have a big block for Branwen's talks: when the timer expires, variable sets to 2,4,6... and Branwen talks.
+IF
+InParty(Myself)
+RealGlobalTimerExpired("O#BranTimerToB","GLOBAL")
+Global("O#BranShutUp","GLOBAL",0)
+See(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID) 
+!StateCheck(Myself,CD_STATE_NOTVALID)
+CombatCounter(0)
+!See([ENEMY])
+OR(5)
+Global("O#BranTalkToB","GLOBAL",1)
+Global("O#BranTalkToB","GLOBAL",3)
+Global("O#BranTalkToB","GLOBAL",5)
+Global("O#BranTalkToB","GLOBAL",7)
+Global("O#BranTalkToB","GLOBAL",9)
+THEN
+RESPONSE #100
+IncrementGlobal("O#BranTalkToB","GLOBAL",1)
+END
+
+
+
+// Third challenge, Innocence or Doubt
+IF
+InParty(Myself)
+Global("O#BranShutUp","GLOBAL",0)
+Global("O#BranChallenge3","GLOBAL",0)
+GlobalGT("BeginChallenge3","GLOBAL",2) // Third challenge happened
+See(Player1)
+!StateCheck(Player1,CD_STATE_NOTVALID) 
+!StateCheck(Myself,CD_STATE_NOTVALID)
+CombatCounter(0)
+!See([ENEMY])
+THEN
+RESPONSE #100
+IncrementGlobal("O#BranChallenge3","GLOBAL",1)
+END
+*/
