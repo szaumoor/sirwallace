@@ -6,18 +6,8 @@ BEGIN CFFRED
 BEGIN CFKYLEJ
 BEGIN CFINSUL
 
-IF
-Global("CFFREDSpawn","GLOBAL",0)
-THEN
-RESPONSE #100
-CreateCreature("CFFRED",[776.1185],2)
-SetGlobal("CFFREDSpawn","GLOBAL",1)
-Continue()
-END
-
-
+CHAIN
 IF ~NumTimesTalkedTo(0)~ THEN BEGIN FIRSTMEETING
-CHAIN 
 IF ~InParty("Fred")
 See("Fred")
 !StateCheck("Fred",STATE_SLEEPING)

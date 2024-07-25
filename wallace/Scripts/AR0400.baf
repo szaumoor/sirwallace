@@ -9,6 +9,24 @@ Continue()
 END
 
 IF
+Global("CFINSULSpawn","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("CFINSUL",[516.1267],6)
+SetGlobal("CFINSULSpawn","GLOBAL",1)
+Continue()
+END
+
+IF
+Global("CFFREDSpawn","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("CFFRED",[776.1185],2)
+SetGlobal("CFFREDSpawn","GLOBAL",1)
+Continue()
+END
+
+IF
 InParty("CFKYLE")
 Global("CFKYLEExperienceSet","GLOBAL",0)
 XPLT(Player1,280001)
