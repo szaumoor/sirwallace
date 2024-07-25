@@ -908,7 +908,7 @@ See("Jaheira")
 !StateCheck("CFKYLE",CD_STATE_NOTVALID)
 Global("CFKYLEJaheira4","GLOBAL",0)~ THEN CFKYLE CFKYLEJaheira4
 ~Jaheira, I can be stealthy. I can hide in plain sight with my brothers.~
-DO ~SetGlobal("CFKYLEJaheira4,"GLOBAL",1)~
+DO ~SetGlobal("CFKYLEJaheira4","GLOBAL",1)~
 == BJAHEIR
 ~Anyone that doesn't need lenses can clearly see a man in a pumpkin suit sitting on the ground.~
 == CFKYLE
