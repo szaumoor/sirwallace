@@ -686,7 +686,7 @@ DO ~SetGlobal("CFKYLEAerie2","GLOBAL",1)~
 == CFKYLE
 ~Maybe I'll find another pumpkin whose has the right curves. Maybe I'll stop all mortals from eating my kind. Who knows?~
 == CFKYLE
-~Right now, I just want to focus on finding an inn and getting a tankard once <CHARNAME> let us take rest for a while.
+~Right now, I just want to focus on finding an inn and getting a tankard once <CHARNAME> let us take rest for a while.~
 EXIT
 
 
