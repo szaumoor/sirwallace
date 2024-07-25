@@ -764,7 +764,7 @@ DO ~SetGlobal("CFKYLEAerie3","GLOBAL",1)~
 == CFKYLE
 ~...You need a hug?~
 == BAERIE
-~I...Yes....
+~I...Yes....~
 == CFKYLE
 ~Alright, come here.~
 EXIT
