@@ -337,7 +337,7 @@ IF ~InParty("Haer'Dalis")
 See("Haer'Dalis")
 !StateCheck("Haer'Dalis",CD_STATE_NOTVALID)
 !StateCheck("CFKYLE",CD_STATE_NOTVALID)
-Global("CFKYLEHaer'Dalis1","GLOBAL",0)~ THEN BHAERDA CFKYLEHaer'Dalis1
+Global("CFKYLEHaer'Dalis1","GLOBAL",0)~ THEN BHAERDA CFKYLEHaerDalis1
 ~My prodigious elk, your being itself inspires a parchment piece inked by it's fellow quill.~
 DO ~SetGlobal("CFKYLEHaer'Dalis1","GLOBAL",1)~
 == CFKYLE
@@ -386,9 +386,9 @@ DO ~SetGlobal("CFKYLEAnomen1","GLOBAL",1)~
 ~I am better suited for tasks that involve our leader and the many great battles we will have. Besides tis' a fruitless effort to stop everyone from eating one type of food.~
 == CFKYLE
 ~You'll kill monsters but not stop at the murder of my kin? Feh, Greenhorn.~
-== BANOMEN 
+== BANOMEN
 ~Take your problems to our leader if you feel so inclined. I, however, will focus on what matters most and ignore your petty words.~
-EXIT          
+EXIT
 
 CHAIN
 IF ~InParty("Mazzy")
@@ -576,7 +576,7 @@ IF ~InParty("Haer'Dalis")
 See("Haer'Dalis")
 !StateCheck("Haer'Dalis",CD_STATE_NOTVALID)
 !StateCheck("CFKYLE",CD_STATE_NOTVALID)
-Global("CFKYLEHaer'Dalis2","GLOBAL",0)~ THEN BHAERDA CFKYLEHaer'Dalis2
+Global("CFKYLEHaer'Dalis2","GLOBAL",0)~ THEN BHAERDA CFKYLEHaerDalis2
 ~You know Haer'Dalis, I always felt as if I was meant to be a bard of sorts.~
 DO ~SetGlobal("CFKYLEHaer'Dalis2","GLOBAL",1)~
 == BHAERDA
