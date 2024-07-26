@@ -11,8 +11,8 @@ IF ~NumTimesTalkedTo(0)~ THEN FIRSTMEETING
 ~InParty("Fred")
 See("Fred")
 !StateCheck("Fred",STATE_SLEEPING)
-Global("FIRSTMEETING","LOCALS",0)~ CFFRED FIRSTMEETING
-SAY ~Pumpkins here. Get your pumpkins here!~
+Global("FIRSTMEETING","LOCALS",0)~ 
+~Pumpkins here. Get your pumpkins here!~
 DO ~SetGlobal("FIRSTMEETING","LOCALS",1)~
 == CFINSUL
 ~10 copper, 7 copper, 9 copper....~
