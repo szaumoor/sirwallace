@@ -10,10 +10,13 @@ SAY ~You sure you want me out? You want to lose all this pumpkin?~
 
 ++ ~Brother Wallace, I've changed my mind. I need you in all your pumpkin splendor.~ DO ~JoinParty()~ EXIT
 ++ ~Let's meet up later. We can catch up and exchange stories then. Be safe.~ DO ~SetGlobal("CFKYLEKickedOut","GLOBAL",1) MoveGlobal("AR0406","CFKYLE",[4053.255])~ EXIT
+END
 
-~!AreaCheck("AR0603")
-!AreaCheck("AR0406")~ + ~Just wait for me here. ~ DO ~SetGlobal("CFKYLEKickedOut","GLOBAL",1)~ EXIT
-+ ~!AreaCheck("AR0301")
+IF ~Global("CFKYLEKickedOut","GLOBAL",0)~ b2
+SAY ~Fine, I'm heading towards the Coronet. Don't be surprised if my arms are full of lasses.~
+++ ~On second thought, stay with us for now. Let me rethink my choices.~  DO ~JoinParty()~ EXIT
++ ~!AreaCheck("AR0603")
+!AreaCheck("AR0301")
 !AreaCheck("AR0410")
 !AreaCheck("AR0411")
 !AreaCheck("AR0412")
@@ -45,6 +48,7 @@ SAY ~You sure you want me out? You want to lose all this pumpkin?~
 !AreaCheck("AR1107")
 !AreaCheck("AR0801")
 !AreaCheck("AR0803")
+!AreaCheck("AR0406")~ + ~Just wait for me here. ~ DO ~SetGlobal("CFKYLEKickedOut","GLOBAL",1)~ EXIT
 END
 
 
@@ -60,5 +64,6 @@ IF ~~ DO ~SetGlobal("CFKYLEKickedOut","GLOBAL",0) JoinParty()~ EXIT
 END
 
 IF ~~ b3.2
-SAY ~Alright. Well, I'm going back to my drink. You know where to find me.~ EXIT
+SAY ~Alright. Well, I'm going back to my drink. You know where to find me.~ 
+IF ~~ EXIT
 END
