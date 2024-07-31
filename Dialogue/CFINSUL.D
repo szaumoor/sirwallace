@@ -1,0 +1,10 @@
+BEGIN CFINSUL
+
+IF
+Global("CFINSULSpawn","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("CFINSUL",[516.1267],6)
+SetGlobal("CFINSULSpawn","GLOBAL",1)
+Continue()
+END

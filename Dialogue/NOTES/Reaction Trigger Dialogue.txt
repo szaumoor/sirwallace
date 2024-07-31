@@ -1,0 +1,179 @@
+Reaction Trigger Dialogue:
+
+Chapter Talks
+
+Chapter 3: At the start:
+
+Wallace: Vampires eat people who eat pumpkins. Plus these thieves will most likely try and steal from us. That or they already did and I personally want to use all the coin we get for lasses or ale. 
+
+Chapter 4: At the dock:
+Wallace: I'm glad we're on the docks. So many of my seeds were spread all over the ship and into the oceans below. Ugh, I most likely lost two pounds if anything.
+
+Chapter 6:
+Alright <PRO_BROTHERSISTER> <CHARNAME>, all we have to do find a lantern. You sure we can't throw a cow at the vampires and take the lantern while they aren't looking? No? 
+Well that's why your the leader and I'm the handsome defender of the group. My ideas aren't the sharpest amongst the tools in the shed. Least that's what all the other
+
+Chapter 7: Before Descend Stairs to meet Irenicus:
+After saving his loved ones, the pumpkin defender Sir Wallace rolls along your path engaging in both vices and his idea of "brotherhood" with you. Can he be up to the challenge that none of his kind has ever faced before?
+
+<CHARNAME>: Sir Wallace, stand down. This is a battle that I face alone.
+	    Sir Wallace, you still have a home to return to and family to hold onto. Be you certain you are prepared and willing for what lies ahead?
+	    Sir Wallace, place the pipeweed away. I need you at your best, anything less would spell certain doom for us.
+
+Wallace: <PRO_BROTHERSISTER> <CHARNAME>, we're it not for you my brothers would be stomped, squashed or eaten by now. You had me see sights and fight battles that none of my kind would have ever beheld. For all that you've done and more <PRO_BROTHERSISTER> <CHARNAME>, I stand with you with swords drawn and stem strengthened. 
+
+
+TOB START:
+- Bhaal dimension - Took too much pipeweed.
+Wallace: By the gods, that pipeweed I took from that dour elf must be conjuring up too powerful visions. That sky looks way too green to be Suldanesselar. 
+Wallace: Oh wait, it's you. <PRO_BROTHERSISTER> <CHARNAME>, the next time you want to see me just send me a letter.
+Wallace: I'd want to talk over filled tankards but it looks as if there's no ale or wenches to be seen here by the mile. Farruk it, send me to the nearest enemy so we can kill it and go back to an inn.
+
+Final Choice between being mortal and godhood:
+Wallace: <PRO_BROTHERSISTER> <CHARNAME>, it appears that we now stand at your destiny. There's a saying for situations like these back at the farm. That this is a decision made between a "boulder and a stone wall".
+Wallace: Were it me, I'd say go for it. Very few mortals ascend to such power and more importantly you can repay me for my help. I would appreciate meeting one of Sune's avatars and finally having people stop abusing my kind. 
+Wallace: If you do go through with it, just know that you will always be my <PRO_BROTHERSISTER>-in-arms and I will celebrate in your name. Always.
+
+
+Chapter 9: Ravager:
+Wallace: <PRO_BROTHERSISTER> <CHARNAME>, don't saying anything. We have to speak and I don't want to be interrupted.
+Wallace: <PRO_BROTHERSISTER> <CHARNAME>, I am a pumpkin as you can clearly see. I was born from the earth and didn't really think much of life. I genuinely thought I would just carry my brothers away from halflings til my roots could not carry any more. And then you saw my handsome visage and knew this pumpkin was meant for greater things.
+Wallace: You saved my family before they were to be turned into food for the masses. And once you had me join you, I've been on the most epic of adventures and won battles the brothers-in-arms back home would never fight in the first place.
+Wallace: I know that I'm hound for lasses, a pipeweed abuser and a gambling addict who may have taken a coin from you here and there (Only when I was drinking with you. Nothing more.)
+Wallace: But being with you made me value the thing that matters the most. 
+Wallace: Family.
+Wallace: I could have done this all by myself but doing ale and pipeweed or trying to get lasses is harder when you're alone.
+Wallace: Even though you might not see me the same way, I just wanted to say thank you. And even if we bite it fighting this bitch Amelissan, it would have been worth it. 
+Wallace: You made this pumpkin go farther than anyone would have been willing to do and for that, I would travel to hells with you and taken on endless armies of demons with you at my side.
+Wallace: Let's strike this bitch down once and for all. FOR THE BROTHERS BACK AT HOME AND FOR THE <PRO_BROTHERSISTER> WHO FACES HIS HERITAGE!
+ 
+
+
+
+
+- Fiirkaag
+Wallace: <BROTHERSISTER>, we could be legends taking him down. Everyone whose eaten a pumpkin will think twice after we dance on his corpse!
+
+- Slayer Reaction
+Wallace: Cool party trick! Oh wait, that's not a party trick, oh fuck man, you guys are coming with me, we're getting out of here! 
+
+Forest Nymphs:
+Wallace: Oh...oh gods....BLARGHHHHHH....ugh. Uh, sorry, I usually don't vomit seeds that quick. <CHARNAME>, help me with these nymphs. I need to find a way to send them direct letters while we travel.
+
+- Silver Dragon
+Wallace: I would rather take a stay in Avernus before letting kids stay kidnapped. This only makes me hate Irenicus more, let's do her this favor and get out of the dark.
+
+- Bodhi Fight
+Wallace: You and that fool Irenicus messed with my <BROTHERSISTER>-in-arms too many times. Now I'm going to make sure you stay buried in the ground even if I got to bury you with my cold plant hands.
+
+- Underwater City
+Wallace: (whispers). I don't trust these guys. Especially when I look at their teeth. It makes me uneasy. I'm gonna hide in plain sight. Let me know when we're good.(squats and hides his face in stomach)
+
+- Thieves Guild
+Wallace: I think someone took my coin. And my handkerchief. Farruk, I like that handkerchief. I used it for my stem every day during the tenday.
+
+- Keldorn's family
+Wallace: Ignored his wife and kids for gods know how long. He deserves it. Just saying.
+
+- Getting Imoen
+Wallace: So this is my <BROTHERSISTER> sister? Imoen, stop looking at me like that, I'm just a pumpkin. So what if I'm a bit round?
+
+- Murder Case - approves but will stop when everyone else hates it.
+Wallace: It's just a few mortals. It's not that big of a deal. Oh...you guys think it is? Alright, time to throw punches into the wind.
+
+- Watcher's Keep approached
+Wallace: <BROTHERSISTER>, I say we take this place for ourselves. Torm barely uses it and once we're done it'll be empty. Think of all the wenches we can bring back for us.
+
+- Garren Kid Rescued - Support of family
+Wallace: Family's important. As much as I don't like mortals, I don't like the idea of abandoning a little girl in a dungeon with no one to find her. I say we do it.
+
+- Finding Jan and his turnips - is grateful for it not being pumpkins
+Wallace: Alright, what in the name of Avernus is....oh wait, it's just turnips and machinery. We're good.
+
+- Drizzt - claims to be bigger than drizzt and shrugs him off
+Wallace: Drizzt who? I don't know who he is. He must be some random adventurer. I'm definitely not jealous of his swords and his cloak. He's totally not as cool as the pumpkins back home say he is.
+
+- Gnolls in Umar Hills - tries to convince to protect pumpkins so town doesnt attack
+Wallace: Gnolls take my kind just to eat them. Farruk them, I say we kill them lest they stab us in the back when they get the chance.
+
+- De'Arnise Keep - Suggests to try and take it. 
+Wallace: Hear me out. We take the keep for ourselves and then live as kings. No? Fine, we'll just kill all the trolls. (whispsers) Could have bacchanalia's with Daggerfordian Wine from the 14th century....could have servants to serve us...
+
+- Faldorn and Cernd - places bet on faldorn to earn some coin.
+Wallace: 5 silvers on Faldorn. 5 silvers on Faldorn. Anyone want in on this? I swear the payout is not rigged at all.
+
+- Copper C - says bro code on pumpkins you don't rat out the bois.
+Wallace: Brother-in-arms code states we do not rat out our brothers. He's not one of us but he's got his reasons and he hasn't hurt us.
+
+Yoshimo Betrayal:
+Wallace: I knew it. No one praises a pumpkin that much without trying to touch the stem or bake my pulp into a pie tin. Don't be surprised when I break his leg once I stomp on his corpse.
+
+- Anomen Test - Kill them. the law is useless.
+Wallace: It's not illegal until we get caught. I know we can find a way to skirt the law and we can make it quick. Even if it's Anomen, I say we get some vengeance delivered.
+
+- Return of Saemon - Murder him cuz of betrayal.
+Wallace: He was given too many chances. Let's just punch his lights out before he escapes again!
+
+- Umar Hill cabin - free home?
+Wallace: I would have wanted this but I don't mess with otherworldy or planar beings. Let's just go before we get sent to Sigil or the Abyss.
+
+- In the abyss - Wonder's where his former cousin squash is cuz he owes him 5 silvers.
+Wallace: We're in Hell? Alright, where's my squash-in-law, that farruking hound owes 5 silvers.
+
+- Elvish city in ruins - wants to defend
+Wallace: We help them, we can send words to all elves to leave my kind alone after we help their family. Easy win for us plus we might get more help to deal with Irenicus.
+
+- Underdark - farm is safer.
+Wallace: Beholders, drow and dragons, oh farruk! Do we really have to go through with this? Can't we use a fireball to blast a way to the surface? 
+
+- Drow Disguise - Say's hes a pumpkin so he doesn't need one.
+Wallace: The magic isn't working on me but they'll probably just think I'm dinner for you guys. Don't actually eat me though <BROTHERSISTER> even if the Drow point a sword at our throats.
+
+- Drow Quest Giver - Calls her a farruking coin lass
+Wallace: (whispers) Farukking coin lass...
+QG: What was that?
+Wallace: Nothing....just admiring the atmosphere.
+
+- Drow Betrayal - Doesn't care but wants to know that we'll be fine.
+Wallace: This all sounds too complicated. <BROTHERSISTER> just pick a side and we'll be fine. Probably. And if not, let's just blast our way out of here with fireball or two.
+
+- VS IRENICUS IN HELL
+Wallace: Watch over me brothers! Today, I strike this mage down in hell in the name of all pumpkin kind and for the ones who fallen. In the name of Chauntea's sweet BOSOMMMMMMM!
+
+TOB:
+- Abizigail forced dragon - see if we can recruit her
+Wallace: We could have a dragon on our side. WE COULD RIDE THE DRAGON <PRO_BROTHERSISTER>! Think about it. Think about all the glory and wenches we could get!
+
+After forced dragon leaves:
+Wallace: Ah, you farruking lizard-lover, you better run lest me and my <PRO_BROTHERSISTER>-in-arms show you what for for simply being a coward! 
+
+Sendai fight:
+Wallace: Think we can keep one of these statues? They'd look good back in that home plane of yours. Plus Cespenar would have something clean outside of the ground.
+
+Saradush:
+Wallace: <BROTHERSISTER>, may we rest? All this hot air is possibly wilting my leaves. I need water and a nice cool bed, not another warm moment in the burning sunlight.
+
+Viekang:
+Wallace: I have a business idea involving him, ale and Waterdeep. Just let me know. We could retire with a ranch under our belts once all this Bhaalspawn business is over and done with.
+
+- Balzathar Fight
+Wallace: <BROTHERSISTER>, this should be the last of them. Let's finish this one quick so we can finally have you acheive your godhood. I'm getting tired of calling elementals to die in the frontlines.
+
+- Yagashura City War - 2nd time for Yagashura
+Wallace: How many times do we have to teach you this lesson fire giant?
+
+- Yagashura Temple - Arrival
+Wallace: I do not like the smell of burning lava in the high morn or any time at all. It wilts my leaves. Let's just get this heart and get out while we can.
+
+- Abazigal's son
+Wallace: Brother, we already killed like two of your kind. Just leave and we won't wipe the earth with your ripped-off wings.
+
+- Yagashura Mom
+Wallace: That must have been one big baby and I should know, my mom said I was a big baby. But I don't see her anymore so don't ask.
+
+-Kid's Dad Dying
+Wallace: I should have magic for this I think. I've seen too many brothers-in-arms without fathers. Let me at least try something <PRO_BROTHERSISTER>.
+
+- Drow and Mindflayers
+Wallace: Do we have to fight more of the mindflayers? I already feel my mind melting with the pipeweed I just took, must we fight squid creatures that look as if their mothers abandoned them to the Bitch Queen's dungeons? No? Fine. But I'll still take my pipeweed while fighting. And you can't stop me.
+

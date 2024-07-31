@@ -1,0 +1,453 @@
+Player initiated Talks:
+
+1. Tell me about yourself. 
+Wallace: I grew up on a farm some ways outside of the Atlkatla. It was peaceful and me and the brothers-in-arms grew up sitting in the sun, drying our dew and discussing the current clack in our lives.
+Wallace: But those moments were rare by the time we were "ripe", the farmhands sold us to mortals who....
+Wallace: I'm sorry but I need a moment...
+<CHARNAME>: Tis' alright. Take your time. (A)
+	    I did not expect this to happen. Do you need a hug Brother Wallace? (A)
+	    Get over yourself. Death comes for us all. You and your kind is no exception. (B)
+	    I do not have time to be your mind counselor. Best you handle it yourself. (C)
+ 
+A: Thanks <BROTHERSISTER>. It's hard to talk about it sometimes. (D)
+
+B: I know but still. Things could be better. For everyone. Mostly my kind though. (D)
+
+C: I...understand. A man's gotta learn how to shoulder his own burdens. Thanks for the lesson at least. END
+
+D: Anyway, I had to see my brothers and sisters taken away. I tried to save as many as I could but I am but a pumpkin. I couldn't protect them all. 
+D2: And not only that, there's so many ways we die. We die of rotting, poor soil and placement, lack of water so wilt, eaten by animals, crushed by accident...
+D3: And I'm the only one who can save them now. With the funds we gain from our adventures, hopefully I can persuade a lawmaker or two to outright ban pumpkin eating. Then I can grab my family and have them retire with me in a place where's there endless streams of running water, guards to stop anyone from hurting us, radiating sunlight.
+<CHARNAME>: That is surprisingly altrustic of you Sir Wallace. I am glad to help you on this journey of yours, no matter how insurmountable it is. (E)
+	    And pipeweed,ale and wenches. You have to have those if you plan on retiring in peace. (F)
+	    Surely, you must be joking right? A paradise such as that would require a lot of work and a lot of mortals that need convincing. (G)
+
+E: I know. People look at me and see me as a easy-going pumpkin. That may be true but I'm not just that. I'm more than that. Now, let's go make the goal a reality <PRO-BROTHERSISTER>! END
+
+F: You are damned right! Speaking of which, we are definitely lacking some of these as of right now, let's go find some before we go do some actual adventuring, what do you say <PRO-BROTHERSISTER>? END
+
+G: I will prove you and all those non-believers wrong! Let's go get some work done and you'll see with my magic firsthand! END
+
+---------------------------------------------------------------------------------------------------------------
+
+2. So, is Fred one of your friends or...?
+Wallace: Yes, Fred is one of the good ones. When I was first born, he was the only one who cared about my kind and what the farmhands were going to do to us.
+Wallace: He took us to the good soil, placed us where the sunlight shined brightest and made sure we were watered. He started taking us more seriously after I became what I am. 
+Wallace: He was also worried if all the other kinds of food were alive so I told him just don't eat my kind and it'll be fine.
+
+<CHARNAME>: I can't imagine him not being able to eat anything after seeing you. <A>
+	    So, does this mean that you have bad friends? <B>
+	    At least that answers my question. That'll be enough to sate my curiosity, let's move on to the task at hand. END
+	    
+A: Well, I do look good in orange.
+A2: I jest. I understand what you mean. He was for some time but now he eats like he used to. 
+A3: But everytime he's offered a pumpkin in some way shape or form, he can't help but think of me and my face. My handsome, intimidating face. And every time he does, he has to deny it. 
+A4: I'm so proud of him <PRO_BROTHERSISTER>. <C>
+
+B: None. The only friends I have are good ones. You included. <C>
+
+C: Fred is a brother. That's all that need's to be said. END
+--------------------------------------------------------------------------------------------------------------
+3. Why exactly do you wield two scimitars?
+Wallace: One day on the farm, there was a small caravan coming through asking for rations to purchase.
+Wallace: The group was from Saradush and with them, they brought a fighter with curved swords. Curved. Swords.
+Wallace: I was just a young pumpkin of about 1 week so I had time and anything could have impressed me but the way that man used his swords were a beauty to behold.
+Wallace: That man was tossing them in the air like the farmhands toss those skinny carrots in barrels with ease. And the ladies that saw him were enamored.
+
+<CHARNAME>: For a second I thought you were going to say that they were like your stem. <A>
+	    So you took up scimitars because you wanted to impress the ladies? <B>
+	    Stop. Just stop right there. I do not want to know more. This conversation ends here. END
+
+A: You know me so well. 
+<CHARNAME>: I think I know you too well. 
+And that's a good thing right? Right? END
+
+B: Plus I needed to know how to fight and they look cool. <PRO_BROTHERSISTER>, have you seen them doused in oil and cloaked in flames? I swear, one of these day's I will master the flames and soon, we will get wenches.
+
+<CHARNAME>: Ok but we gotta find a tavern willing to host us. Maybe in Waterdeep. <C> 
+	    I think I'll pass on it entirely. Lighting weapons on fire and loose women aren't exactly my style. <D>
+	    Try keeping the flames close to your chest. I swear you'll be fine. <E>
+	    I worry about you sometimes, sir Wallace. <F>
+
+C: We gotta start off small like the Copper Coronet and build ourselves up. I'll think about it while you plan our next moves <PRO_BROTHERSISTER>. I'll get back to you. END
+
+D: You got to learn how to live <CHARNAME>. There's so much more to life than adventuring, you know...
+<CHARNAME>: Wallace, an archmage who experimented on me for gods know how many tendays is most likely gonna have me killed. I do not have time to play with flaming swords. <G>
+	    I don't know. My life before leaving Candlekeep were always so quiet. With books all around and minor chores to be done. I suppose I could go along with this. <H>
+
+
+E: I could make an X with the swords. I need parchment and ink QUICK before this wench-vanquishing idea passes from my stem! END
+
+F: I appreciate the concern but you have got to learn how to unwind. Next time we are camp, try some of my pipeweed. Helps after looking at your enemies corpses. Makes you think about them less. END.
+
+G: Oh, so you can rest when you camp like the rest of the mortals but flaming swords is too much for you. When I end up getting wenches and gold, I'll point at you saying that you could have been me <PRO_BROTHERSISTER>. You could have been me! END
+
+H: This is why I have to do this. <PRO_BROTHERSISTER>, if you spend your entire life behind the books, you'll become a bookworm. I don't want you to turn into that so when we rest at a tavern, you're sticking with me. END.
+
+-------------------------------------------------------------------------------------------------------------
+
+4. How do you talk to another vegetable or fruit?
+Wallace: So many people ask me this and every time they do, they want more. They want to know how I work. What my innards look like. Can't you just be happy with just having a pumpkin in your party?
+<CHARNAME>: No. I need to know. As your leader, I need you to explain it to me. It's of the utmost importance.<A>
+	    Please. It would mean a lot to me brother. <A>
+	    I will respect your wishes then. So be it. END.
+	    You're right. I am just happy with your being just a pumpkin. I won't push it then. END
+
+A:
+Wallace: It takes a few minutes but it involves me settling in the ground. For me, I have to lower myself by squatting and then curl myself until I'm hiding in plain sight. I would have looked as if there is nothing but pumpkin.
+Wallace: After that, I feel the ground sending our messages. At least for the rooted ones still in the ground.
+Wallace: Everything else I just need a minute to get to know by hand. That's why I don't touch food. It's awkward when you're a male pumpkin and you hand me a carrot and I find out that I'm touching the carrots abs with my stem not feeling as strong.
+Wallace: It's weird and that's what happened at the last tavern I visited and I don't want to talk about this anymore <PRO_BROTHERSISTER>.
+
+------------------------------------------------------------------------------------------------------------
+
+
+7. I forgot to mention an important detail about myself. I am a child of Bhaal, the lord of murder. I hope this doesn't put a damper on our relationship.
+Wallace: Was it supposed to? If anything, I farruking respect you more now that you said.
+<CHARNAME>: Because I'm the son of the god, destined for bloodshed and carnage and will take over his throne?<A>
+	    Because I'm fighting the taint of god whose act are uninmanageable in number and unspeakable by scale in order for me to stay mortal?<B>
+	    Because I do my best to uphold all that is good and just while ensuring the darkness in me won't take over?<C>
+	    Because it somehow will get me more wenches in taverns as you would like? <D>
+	    
+A: Not really. You have got to start smoking pipeweed with me <CHARNAME>. You're starting to like war more often than a gnome likes drinking myconid blood in the underdark. <E>
+
+B: Actually, yes. I'm surprised you knew what I was planning on saying but yes. <E>
+
+C: I actually wished you could be more lax with your rules. You're getting to be more uptight than the Order of the Radiant Hearts paladins. <E>
+
+D: That could be true. Freaky wenches sure know how to throw together festivities, both in the sheets and in the streets. <E>
+
+E:  To be, as we pumpkins say, direct on the mortal plane, I respect how you managed this calling. I heard from others that it all started when you left Candlekeep at a young age.
+E2: Honestly, I don't think I could handle it. I'd probably just panic with the brothers or smoke pipeweed to cool down. I might have been shanked by an assassin afterwards but hey, that's life for a bhaalspawn I guess.
+E3: I'll just say this <PRO_BROTHERSISTER>, I'm glad you're here and I'm glad I can help you out when I can. Now, let's go find a tavern and get wasted before someone wants you stabbed.
+----------------------------------------------------------------------------------------------------------
+8. Why don't you ever talked about how you became this?
+Wallace: A mage turned me into this. Nothing more that needs to be said.
+<CHARNAME>: I need to know if this magic that turned you into this might end with you dying from a Dispel Magic spell within seconds. <A>
+	    I never hear you talk about it. You avoid it like it's the calishite itch. I need you to know you can rely on me Brother Wallace. <B>
+	    Because I want to turn other things into living people. We could use more bodies on the front lines and it'd be funny to see me throw foul-mouthed carrots at a dragon. <C>
+	    You're right. I'll see to it that the rest of us don't question it. Keep up the good work. END
+
+A: I don't think it will but I get it. With the path we're taking, we might end up fighting bookish wizards who spent more of their time reading Volo's stories over courting nobles. And that's frightening. <D>
+
+B: <PRO__BROTHERSISTER>, I knew we were brothers-in-arms but I didn't we were Brothers brothers. <D>
+
+C: Do not even joke like that. I don't want anyone else to be born a mistake like me. 
+<CHARNAME>: You are not a mistake in my eyes Brother Wallace. You are my friend. <E>
+	    I mean. Yes. You aren't a joke but the gods seem to have a sense of humour, don't you think? <F>
+	    You're so close-minded. Had we more defenders we would take less damage and suffer minor losses. Think about the benefit of the group Wallace. <G>
+
+E: Thank you <CHARNAME>. Your words bring me and seed filled heart of mine much relief. Let me explain how it happened. <D>.
+
+F: Are you implying that the gods made me as a joke? Like my creation was a one time moment that is lasting much longer than thy had expected?
+<CHARNAME>: I'll leave you to think on it... END
+	    Go ahead and give me the context. Perhaps my words will change through your story. <D>
+	    	  
+G: That's even worse than being borne a mistake. To just live only to have the people who create you turn into a meat shield to take a hit. To only live for 5 seconds before turning to ash. <PRO_BROTHERSISTER>, I don't think I'll ever or want to ever get it. I'm done with this conversation. Leave me be. END.
+
+
+D: One day a mage who was an apprentice to some more powerful mage apparently took one of his artifacts and aimed it at me. Don't know what it was but it must have been powerful to have given me life.
+D2: I got a blast of arcane magic and next thing I know, I was born. The mage left quickly afterwards and the farmhands didn't know what to do.
+D3: Fred and I asked the farm to leave me be. They also tried at one point to make me a attraction but we managed to convince the owner if I made 100 gold pieces, I could do as I please.
+D4: Fred hired some workers in the local courts and ruled for me to go about as I please. The workers/merchants hated that I defend the pumpkins they were trying to sell but stopped once some of them got to know me and took some of my pipeweed. 
+D5: Not all liked me. But it doesn't matter now.
+
+<CHARNAME>: I'm more surprised you're talking about the local courts over the fact that you were born by magic. <H>
+	    It makes sense. Who doesn't like a pumpkin? Crazy right? <I>
+	    What kind of artifact are we speaking of? A weapon of sorts or some ancient scroll that acts as a weapon of mass destruction? <J>
+
+H: The local courts, my <PRO_BROTHERSISTER> are very important to us farm folks. Even more than magic unless a mage comes along and casts fireball on our crops. They need coin to live, of course. <J>
+
+I: I know right? I get that you mortals get hungry and want to eat us but if anything we make for good company and for good decor. You can even place us in dungeons and I swear that it would make a spider's den more inviting.
+
+J: Circling back, the magic used was not known to me or the other farm hands. The magic was like a bolt and next thing I knew I was here. I was a handsome pumpkin back then but now, I'm a young handsome pumpkin who can cast spells with ease for the lasses.
+J2: I don't know about if anything can undo what made me like this. When I get hit with spells such as dispel magic, it's like my body rumbles and my hand shakes without me doing anything. I get lightheaded but mostly my spells fizzles. You've seen me in my fights. It happens.
+J3: Everytime, however, I still turn out fine. Let's just keep traveling and maybe we can get some answers along the way, alright?
+
+-------------------------------------------------------------------------------------------------------------
+9. Have you a goal during our adventures?
+Wallace: My main goal is to be well-known and then act as if I know no one. HA!
+<CHARNAME>: Is this an actual goal of yours? <A>
+	    Give it time then. With the path we're taking, a spell-slinging pumpkin is sure to spread tales throughout taverns. END.
+
+A: It is. Hopefully, we manage to pull it off with enough time. That way, we can get more lasses and become more well known by being mysterious. 
+A2: Reverse- mind magic. Something that only the smartest beings know. And mind-flayers, but that's because it comes natural to them. 
+A3:If it doesn't happen naturally, we can just pay off enough bards to make it so! END
+
+-------------------------------------------------------------------------------------------------------------
+10. Have you ever been in relations with another of your kind?
+Wallace: No. I am not ready for paying funds for children nor for courting the same woman. I want all the lasses to enjoy my stem in it's pumpkin splendor. Totally. No other reason.
+<CHARNAME>: Tis' a bad day to have ears. END.
+	    Wallace, you haven't courted the same woman? You haven't made a foundation of love with another woman for tenday's on end? <A>
+
+A: I don't want to talk about it.
+<CHARNAME>: Fine, consider the topic dropped. END
+	    Brother Wallace, you have to let me in if you want me to know. <B>
+
+B: I don't have experience with long term courting. I can get lasses but I...I don't want to know them, you know? Aren't we adventurers? Aren't we trying to find your sister and kill that mage? Let's just go before we lose them <CHARNAME>.
+<CHARNAME>: You're right, we're wasting time. Let's head out.
+	    Wallace, we have time right now and we don't need to go anywhere. It's ok. You can be direct with me on the mortal plane. <C>
+
+C: <PRO_BROTHERSISTER>, truthfully, I haven't connected with someone like that. Maybe with their roots and seeds but not with my heart.
+C2: With you supporting me, I think I might be able to. Let's go find a tavern now. I want to smashed by ale before even starting with this. END
+------------------------------------------------------------------------------------------------------------
+11. How do you manage to wear armor?
+Wallace: You know how I have dew right? It's sticky enough to get armor to stick on. Even with intense heat, the dew keeps it on. This is why I have to dry my dew. If I keep producing it, I will end getting stuck.
+Wallace: If it does get to that, a wet rag is enough to wipe it off. END
+------------------------------------------------------------------------------------------------------------
+12. You say brother to some of the parties members even though they are female. Why is that?
+Wallace: You ever say the wrong word by accident or just do things by habit? That exactly why brother, nothing else. END
+------------------------------------------------------------------------------------------------------------
+14. Did someone name you or were you just born with the name Sir Wallace?
+Wallace: When it came to the name, I was thinking about it for a while but I felt as though Kyle Wallace was made for me.
+Wallace: It's just something that came naturally. Fred suggested I go with something that was more fitting such as Ulfgar or Eldon or Flynn. None of those felt right so it took me a few days after I was born since this one came along.
+Wallace: Pretty impressive for a 3 day old pumpkin right? END
+--------------------------------------------------------------------------------------------------------
+TOB:
+1. My supposed destiny becomes closer and closer to becoming true. Your thoughts?
+Wallace: Honestly, with all this war and death, I'm wondering if it's worth to keep on the path <PRO_BROTHERSISTER> and if you plan on becoming a god of murder. 
+Wallace: I don't think you should, <PRO_BROTHERSISTER>. I like you as you are now as my drinking brother and not a warlord.
+<CHARNAME>: Enough. I regret even talking to you to begin with. I take my leave before you ask me to drink with you again. END.
+	    Wallace, I cannot ignore my destiny. Sooner or later, the Bhaalspawn will arrive and I would rather find them blade-in-hand rather than my tail betwixt the legs. <A>
+	    Wallace, this is what I was meant for. The blood spilled, the sound of mettle tested from clashing iron, the screams of torment, all in my name. For my destiny.  <B>
+	    Wallace, this I understand. I fear that I will soon become numb or worse, distant from all other people and ignorant of their pains. <C>
+
+A: To be direct from the mortal plane, I respect how you're taking this. If this was me, I'd be smoking pipeweed like no tomorrow. <D>
+
+B:<PRO_BROTHERSISTER> <CHARNAME>, you need some rest. This is starting to get out of hand and I think we should get you some pipeweed to unwind. Let's head back to that plane and just breathe ok? <D>
+
+C: You want some pipeweed? Honestly, when it comes to overwhelming feelings just breathing it should be enough to stop some thoughts. <D>
+
+D: Right now, I just need you to know that it's ok to take it easy <PRO_BROTHERSISTER>. 
+<CHARNAME>: I suppose any help would do. Pass me the pipeweed. It's been a long day. END W/REST
+	    Would it be alright if we just talk instead? I do not engage in such vices and I have many a word to speak of. <E>
+	    I deny such things. Trial by combat is what calms me. To see the light go out of my enemies is all I need. Get your worthless demon pipe away from me <F>.
+
+E: Sit down next to me. I'll still smoke but I'll listen. Just don't be surprised if I stare at the green sky for hours on end. END w/rest
+
+F: <PRO_BROTHERSISTER>, my offer still stands. Just take it easy on the carnage lest I leave you within in a whirlwind of blood that leaves you drier than a raisin still baking in the sun. END.
+------------------------------------------------------------------------
+2. I do not know what will happen to the ones I love after my adventures. Will they still stay with me after my destiny has been met with?
+Wallace: If you mean your friends and allies, who knows? If you plan on going to taverns, you know I'll be coming with you.
+Wallace: But I think my travels with you is enough to last me a lifetime. I think if you found someone you love they won't leave anytime soon but the rest of us are probably going to make our own plans and leave. 
+Wallace: You're great and all, but a pumpkin has places to be and lasses to see.
+
+<CHARNAME>: I do have someone that I think of fondly. I hope once it's all done they will continue to walk along with me hand in hand and step by step. <A>
+	    Once this is all over, I believe a vacation is in order. Liam's hold was a place I found out about by one of Volo's many writings. I heard that it has a nice pie shop. <B>
+	    Evermeet is only for elves. I'm considering finding a way in. Given how things are going, I wouldn't be surprised if there was way in for us. <C>
+	    I think I'll retire in Candlekeep. Books as far as the eye can see and can keep me busy for gods know how long. <D>
+	    I don't know what I'll do. I guess I'll figure it out. <E>
+
+A: My <PRO_BROTHERSISTER>-in-arms. In love. You know what, let's break out a casket of ale. We should celebrate you in love in the name of Chauntea and Sune. And you can help your brother in getting lasses by midnight.
+
+<CHARNAME>: Thanks Brother Wallace. I loved this person from the time I first laid eyes on them. Or at least since I left Irenicus's dungeon. 
+Wallace: Then we bring them with us. COME. WE DRINK TIL HIGH MORN! Or until we pass out. And wait til you try PSL. Pumpkin spiced liquor. We pumpkins know how to celebrate!
+
+B: You mean that small town that has a pie shop? <PRO_BROTHERSISTER>, out of all the places to go to along the sword coast you choose there to unwind? We need to get you more lasses in your bedchambers. <F>
+
+C: A festival in a land sacred to the elves would indeed be epic in proportions <PRO_BROTHERSISTER>. If you want, let me bring my brothers from the farms, find some lasses from Daggerford and Ulgoth's beard, throw in some werewolves and a pipe made from dwarven metals and you got yourself a party to be told at least til the next century. <F>
+
+D: Books, really? You are not a weak wizard whose never talked to a lass in their entire time on the mortal plane. You are better than this. You deserve better than this. <F>
+
+E: There's always vices <PRO_BROTHERSISTER>. Always vices. We could always bet money in taverns and then beat up the tavern owners when they try to get us to leave. 
+E2: Tavern owners always throw us out before we strike it big. <F>
+
+F: Give it time. For now, we still have the Bhaalspawn to deal with and punches to throw. Either way, life moves on <PRO_BROTHERSISTER>. Life moves on. 
+F2: But at least you got a pumpkin to roll out with. And what could be better than that?
+-----------------------------------------------------------------------------
+3. All this war is having you use your various vices more often. You need to relent on such things. Tis' not healthy.
+Wallace: I just saw a father die before my eyes. Crushed by a boulder with ease. No amount of drinking, smoking or exchanging seeds from a watermelon is gonna ever make me forget that stuff like that is now normal for us.
+Wallace: This is too much for me <PRO_BROTHERSISTER>. Some days, I feel that I'm way over my pumpkin stem. By Sune's fiery heart, I need another breath of my pipe. You want?
+<CHARNAME>: It does feel like one of those tendays. Pass it over. I need at least ten breaths to keep myself going now. END w/Rest
+	    Sir Wallace, as your <PRO_BROTHERSISTER>-in-arms and the one leading this group I command you to stop this reliance as of this moment! I need you steady, not as a smoked out buffoon. <A>
+	    It's ok to unwind Sir Wallace. This heavy reliance, however, is going to lead to many a problem. You're stem might not be as strong and the lasses might not be as interested in you as you would like. <A>
+	    Do as you please. So long as you can cast spells I could care less. Just make sure you know where to point your hands at once we're in combat. <B>
+
+A: If it matters that much to you then fine, I'll cut back but you need to know that this adventure is getting out-of-proportions. I haven't seen this many corpses since I saw a fireball blow up in my pumpkin patch. Farruk <PRO_BROTHERSISTER>, this is too much... END
+
+B: Thank you. Now if you'll excuse me, the sky is turning green and I feel like coughing up smoke like a chimney in a tavern. END
+
+---------------------------------------------------------------------------------
+4. You never talk about your parents, do you? 
+Wallace: That's because I didn't want to remind you of Gorion. Sorry that your dad died by the way. 
+
+<CHARNAME>: Forget it. Keep the story to yourself. It no longer interests me Wallace. END
+	    You lost family as well? <A>
+
+A: My father died protecting me from a halfling family. He was the biggest out of us all and he insisted on being placed on the front lines. My mother begged him not to but it was already too late. He was taken and sold...he was....HE WAS SOLD FOR ONLY 2 GOLD PIECES. 
+A2:After that, my mom just became distant. I haven't spoken to her for a while.
+A3: My apologies <PRO_BROTHERSISTER>. I need a minute to breathe.
+A4: Alright, go ahead. I'm good now.
+
+<CHARNAME>: How does my father, who loved and trained me firsthand for years, and died fighting off a band of mercanaries led by my evil brother compare to your father who got sold off? <B>
+	    I thought pumpkins couldn't talk or move. Or do anything outside of you. <C>
+	    Wallace, I am not in the mood for your "save all the pumpkins" talk. I'm leaving you to go deal with this on your own. END
+
+B: My father was sold and then cannibalized to protect me. He died a heroic death just like yours!
+<CHARNAME>: That's not how cannibalism works.
+B2: Well, that's how I use it and that's not the point. We're like the same person. Both beautiful people with deep seated personal issues. <D>
+
+C: They can <CHARNAME>. They just don't look as good as I but they're just like you and me. Just without limbs and mouths. And we don't eat our kind.
+C2: They have roots and the soil. They use that to talk. Gods <CHARNAME>, thought you would have known this by now given I'm here.
+C3: Despite your lack of knowledge on my kind, we are cut from the same cloth. <D>
+
+D: One could argue that in another life, in another plane, we could have been brothers. 
+
+<CHARNAME>: Never compare yourself to me. I am not a joke and my suffering is something you could never understand. End of discussion. END
+	    I see what you're getting at despite my disagreements with the specifics about the comparison. <E>
+
+E: And that was what I was trying to get at <PRO_BROTHERSISTER>. I may not be human but I am a pumpkin. And even though you're this unstoppable force of nature, you're still a mortal. 
+E2: I just was worried that telling you would just make it harder for you to focus on the task at hand or bring up bad memories or...
+
+<CHARNAME>: Thank you Sir Wallace. It brings me much joy that you care about me in such a way. <E>
+	    Tis' fine. Gorion wasn't that much of a father but more of a mentor to me. Don't burden yourself with such thoughts. <F>
+	    Things such as family and love...these are concepts brought up by mortals to only comfort oneself. I have no need for such fantasies. <G>
+
+E: <PRO_BROTHERSISTER> <CHARNAME>, don't get the wrong idea, I don't do mortals.
+E2: I just want you to know that I have you <PRO_BROTHERSISTER>. And I have your back. END.
+
+F: Don't you care about him? He did raise you after all. That has to mean something <PRO_BROTHERSISTER>.
+<CHARNAME>: I never connected with him so it's not as if I missed him deeply. Don't worry about it and just focus on what needs to get done. END
+
+G: <PRO_BROTHERSISTER>, I hope one day you find someone who can change that mind of yours. That or replace the taint of Bhaal with a soul of Sune's followers. Or something like that. END
+
+-----------------------------------------------------------------------------------------
+5. During our travels you seem to be enamored with Dryads despite their mortal-like appearance.
+Wallace: <PRO_BROTHERSISTER>, that bark of theirs and curves drives me nuts. It's stuff like that makes me alike with the mortals.
+<CHARNAME>: I should have known you would be like this. Keep your distance while I just try and forget what I heard. END
+	    I get it. Such beings are one's that most mortals never experience in their lives. I would act in a similar manner. <A>
+	    Wallace, I do not understand. They look like mortals except their skins are made of bark and their hair is made of leaves. There is very little difference between the two. <B>.
+
+A: Honestly, just being able to kiss one would be a miracle for me. I know that you've dealt with them but if we ever come across one I swear I will court her unlike any pumpkin has ever done on the sword coast.
+A2: I would sweep her off her feet and look into their deep blue eyes....
+A3:and....
+A4:<CHARNAME>, I am going to need a moment. I need to excuse myself for a bit. My stem's getting barked up and I need my handkerchief for some polishing.
+
+<CHARNAME>: You can just go and do that without me knowing about it. END
+	    I often wonder if the gods punish me just for needing you in my group or if it's just Bhaal taint's enjoying your company. END.
+
+B: That's like me saying all mortals look the same. I never expected you to believe in such a thing. <PRO_BROTHERSISTER>,  I am immensely disappointed in you. Do you think all vegetables look the same? That all fruits and vegetables are the same in your eyes?
+
+<CHARNAME>: Forget I said anything Sir Wallace. Just believe whatever you want to believe. END
+	    No Sir Wallace, it just doesn't add up. You are attracted to pumpkins and other vegetables. How does a nymph look like a vegetable? <C>
+
+C: Nymphs are not vegetables <PRO_BROTHERSISTER>. They are like statues made in the name of Sune's image with Chauntea's blessings. They're nothing like pumpkins. 
+C2: Mortals like you will never understand. Just leave me be.
+----------------------------------------------------------------------------------------------
+6. How old are you?
+Wallace: Given our travels, I think I am least 2 months. Pumpkins grow to adulthood much faster than mortal children.
+
+<CHARNAME>: Doesn't that mean you're underage? I don't feel comfortable having a child in my party. <A>
+	    
+A: I am a adult in pumpkin years. And if anything, I've seen you adopt others in the group without a care for age. 
+A2: And we've been through a lot already, if you had cared about my age before you wouldn't have put me up against dragons and giants!
+
+<CHARNAME>: Fair enough. Forget I said anything. END.
+	    That is correct. I am not well-versed in vegetable culture. Is it normal for a pumpkin to be adventuring and drinking ale at this age? <B>
+
+B: Back at the farm, me and the brothers-in-arms would go around clacking about life and walking the lands. We got bored easily but we had each other and each of us had dreams.
+B2: Fred joined in and we each believe in something. Fred wanted to be a library keeper as he wanted to stop tilling the fields and just live quietly in peace. My brothers wanted to become nobles, get lasses or become knights. 
+B3: When we discussed this, Fred brought the ale and we all had started to drink or have ale poured on us. We drank from night to morn and we could not stop. Drinking with the brothers can be very intense.
+B4: I was the only one who could pursue said dreams given my change. They all told to go out and become a noble so we can do more than just drink ale at the farm. I guess with enough money you can do anything.
+B5: I can buy my brothers the clothes they deserve, go to other cities and try out new delicacies with lasses that swoon with the coin we toss. But...
+B6: None of that matters if I'm all alone.
+
+<CHARNAME>: That was unexpectedly profound of you Wallace. <C>
+	    Even if you are away from your brothers at the farm, you're here with us. And despite the atrocities made while I'm here, we will honor your families request. <D>
+
+C: Profound means I'm smart right? 
+
+<CHARNAME>: Never change Sir Wallace. Never Change. END
+
+D: Then let's find an inn to unwind and roll some dice. I feel like I can double my coin just from hearing those words. Plus the brothers will want to see the lump sum that we can easily make from this.
+
+---------------------------------------------------------------------------------------------------------
+7. You care a lot about your fellow pumpkins but do you care a lot about the creatures we summon?
+Wallace: Depends on the creature. Elementals can be arseholes especially the one's on fire who look as if they lived inside a dragon's mouth for their entire existence.
+Wallace: Personally, I understand we needing to use skeletons in a fight, but can we just summon them just to have them enjoy some ale? 
+Wallace: I summoned one skeleton called Steve and he told me about how he kept trying to kill giant creatures with a crossbow. Braver man than me, I say.
+
+<CHARNAME>: Does this mean all the creatures we've been summoning apparently are sentient with feelings and emotions and that we've been sending them to their deaths in the midst of war? <A>
+	    We can have them join us for a drink or two. Honestly, we could use the entertainment to briefly forget about the wars. <B>
+	    How exactly do you know this knowledge? Do you communicate with them in a way the others can't? <C>
+
+A: YES. They have goals, and dreams and sometimes a desire to go back to sleep simply because they like sleeping which is whatever.
+A2: But every time we summon one, we are sending someone to their death. <PRO_BROTHERSISTER> <CHARNAME>, please don't send anymore to their deaths unless we really have to, ok? 
+A3: It makes me feel as if I'm a mortal eating my brother. It ain't right ok?
+
+<CHARNAME>: We are at war Wallace! Do we ask every ant we crush beneath our feet if it's ok for them to move? <D>
+	    I know you don't like it and I will try not to but given the war's we're in we might now have a choice. <D>
+
+D: <PRO_BROTHERSISTER> <CHARNAME>, this is cruel and I wish it weren't true. I hope the brothers back home can understand our situation. I like to be able to stare in their eyes once we're done and be able to live with myself. END 
+
+B: Truth be told <PRO_BROTHERSISTER> <CHARNAME>, a lot of them want to visit their families. Hard to deny them when they ask why their wife and children are gone and who is the good looking pumpkin in front of them. Even worse when we force them to get eaten by dragons or torn to shreds by demons.
+B2: But a drink or two isn't so bad now is it? END
+
+C: When we summon them, we connect with them through magic. Ask someone else for more details because I'm not bookish human who engorges on books like I would on nymph's curves.
+C2: Summoning them for me is like I can hear them. I tell them what to do but their thoughts are in my mind and were it not for the fact that someone wants to gut me for my seeds during this war I would have stopped and listen for a while.
+C3: I guess it might have to do with my gigantic pumpkin muscles that I use to impress the lasses.
+
+<CHARNAME>: Wallace, can you please take anything seriously? <E>
+	    Your body that has been altered by magic might have something to do with this. The magic used to create could have been in a similar fashion to how we summon creatures and if it, you might be the highest version of said type of spell. <F>
+	    And the moment is ruined. Just when I was getting interested in speaking with you... END
+
+E: I take a lot of things seriously <PRO_BROTHERSISTER> <CHARNAME>. Such as when I hear you bark orders for me like your a commander of the Radiant Heart that's riding upon a staff to focus.
+E2: And even topics like this. My thoughts are deep and intense like my moves. 
+
+<CHARNAME>: Sure you do Wallace. Get back to me when you can prove it. END
+	    If that is true then tell me your thoughts on the magic applied on you, both body and soul. <F>
+
+
+F: I was just thinking, it could be possible that I am the creation of the highest version of the spell. That wizard might have been able to create life without any restrictions or control.
+
+<CHARNAME>: Tis a most terrifying thought to have. One could only wonder if you were created, what horrors could emerge from worse beings. <G>
+
+G: Making a Tarrasque from earth instead of elementals would be terrifying. An invasion would most likely be the end of the Sword Coast, let alone Baldur's gate.
+G2: Let's just hope I'll be the only thing made. Besides, it feels good being the best looking pumpkin around. END
+	   
+
+
+----------------------------------------------------------------------------------------------------
+11. Do you still think of the farm? It seems so little to me just to think about such things.
+Wallace: I haven't been this far away from home in all my days. I wonder how the brothers-in-arms are holding up now that I have become a force of nature.
+Wallace: With a flick of wrist, I can make all the farmhands eaten by insects within seconds or get swallowed up by the earth.
+Wallace: I wouldn't do that to Fred, if you remember, I've decided to make him an honorary member of the pumpkins back home. I'll let him know.
+Wallace: That being said, I just don't feel as though things won't be the same when I return.
+
+<CHARNAME>: Agreed. With all the powers we control and the adventures we go on, how can we ever return to simpler times? <A>
+	    Do not fret that stem of yours Sir Wallace. Despite what we have become, we are still mortals and pumpkins who can return home. We have loved ones waiting for us and a end to all that we are to be. <B>
+	    Wallace, I did not think you were worried. I had thought you were happy with the power you've gained so you can protect your brothers. <C>
+	    I'll leave you to your thoughts. Let the others know if you need to talk. END
+
+A: I wonder if the people we come back to will ever look at us the same as well? 
+A2: It takes years for most mortals to get to our level of power but it feels like a few hours to me at times.
+A3: Home is only a dream...and also a comfort. I assume the same for you as well. <B>
+
+B: I'm happy we have that dream, at least in the back of our stems. We can still rest knowing that we have a place to return to once all this ends. 
+B2: Truthfully, the brothers-in-arms will be happy I will return. They'll also probably use me to get lasses.
+B3: I'd do the exact same thing to but with you involved as well. 
+
+<CHARNAME>: That was a lot of talking. But I am glad you got it all out of your system. I did as well. Let's move on shall we? END
+	    I ask that I not be there when you speak of me to get lasses. The second-hand embarrassment would be too much. Let's just go before we talk any further about the subject. END
+	    I am honored to be used in a simple pumpkin's pursuit of pleasures pontificating our prodigious perfect pupils and palms and preserving our perspective by pampering a pumpkin's own pursuit. <D>
+
+D: <PRO_BROTHERSISTER> <CHARNAME>, did you study the books intensely in order to say that? 
+
+<CHARNAME>: I was spent many a time in the books back at Candlekeep. It was required by Gorion as he said it would help both me and Imoen in the world growing up. <E>
+	    I am just that well-armed in both words and with an ink and quill. <E>
+	    I wanted to do something different. Did it work? <E>
+
+E: We have to get you some lasses in your arms <PRO_BROTHERSISTER> <CHARNAME>. That was embarrassing to hear. END
+	    
+
+C: I mean true. They are my brothers, of course I am happy to protect them. No one will think twice once I return to the farm! 
+C2: But it's just that I feel so much stronger. Look at these muscles I've honed after traveling with you. And I've never looked so lean.
+C3: And my magic is so much more potent than it was when you bought freedom for my allies after you found me. <A>
+
+----------------------------------------------------------------------------------------------------
+11. Can you make a prayer for me? I think I'd feel better hearing you make one for me.
+Wallace: Sure <PRO_BROTHERSISTER> <CHARNAME>
+Wallace: Dear Chauntea. Dear Sune. Please bless my <PRO_BROTHERSISTER> in their battles up ahead. May their attacks be righteous both in war and in the bed chambers.
+Wallace: May their magic showcase their good looks and their skills at warfare 
+Wallace: And may we find our enemies who plague our travels and impede our path so that we can stomp on their corpses using our sword-arms and our mighty stems.
+Wallace: Praise be unto the Gods above and bless us mortals who stand on the earth. END

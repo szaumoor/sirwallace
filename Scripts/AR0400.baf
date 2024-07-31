@@ -1,0 +1,72 @@
+
+IF
+Global("CFKYLESpawn","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("CFKYLE",[603.1221],14)
+SetGlobal("CFKYLESpawn","GLOBAL",1)
+Continue()
+END
+
+IF
+Global("CFINSULSpawn","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("CFINSUL",[516.1267],6)
+SetGlobal("CFINSULSpawn","GLOBAL",1)
+Continue()
+END
+
+IF
+Global("CFFREDSpawn","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("CFFRED",[776.1185],2)
+SetGlobal("CFFREDSpawn","GLOBAL",1)
+Continue()
+END
+
+IF
+InParty("CFKYLE")
+Global("CFKYLEExperienceSet","GLOBAL",0)
+XPLT(Player1,280001)
+THEN
+RESPONSE #100
+SetGlobal("CFYKLEExperienceSet","GLOBAL",1)
+Continue()
+END
+
+IF
+InParty("CFKYLE")
+Global("CFKYLEExperienceSet","GLOBAL",0)
+XPGT(Player1,280000)
+XPLT(Player1,600001)
+THEN
+RESPONSE #100
+SetGlobal("CFKYLEExperienceSet","GLOBAL",1)
+AddXPObject("CFKYLE",239000)
+Continue()
+END
+
+IF
+InParty("CFKYLE")
+Global("CFKYLEExperienceSet","GLOBAL",0)
+XPGT(Player1,600000)
+XPLT(Player1,1000001)
+THEN
+RESPONSE #100
+SetGlobal("CFKYLEExperienceSet","GLOBAL",1)
+AddXPObject("CFKYLE",639000)
+Continue()
+END
+
+IF
+InParty("CFKYLE")
+Global("CFKYLEExperienceSet","GLOBAL",0)
+XPGT(Player1,1000000)
+THEN
+RESPONSE #100
+SetGlobal("CFKYLEExperienceSet","GLOBAL",1)
+AddXPObject("CFKYLE",1039000)
+Continue()
+END

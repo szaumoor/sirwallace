@@ -1,0 +1,292 @@
+BG2: Quests
+
+Journal Entry for intro party member: After encountering a simple pumpkin stand, I appear to have found a pumpkin who is now traveling with me. Despite his appearance, his control over nature appears to be strong and will travel to see if there's festivities to be had or pumpkins to be saved. Let us hope he can focus on combat over trying to see which ale goes down better.
+
+SOA Quest: The Simpler Things in Life
+
+Wallace:  <PRO_BROTHERSISTER> <CHARNAME>, I forgot my favorite pipe to smoke weed out of. It's very important to me that we get it back. If we get it, I promise to share it amongst our group, that way everyone isn't left out.
+
+<CHARNAME>: Sure. With all this traveling getting done, we can use a moment to unwind. 
+	    Wallace, I'll do this as it is important to you but I'm not smoking it nor do I think anyone else would.
+	    We don't have time for your vices Wallace. My sister is in danger and Irenicus is still on the loose.
+	    Sir Wallace, not right now but possibly later. There are more pressing matters at hand.
+
+Wallace: When we get to it, we should head back to the stand Fred was in. He'll probably know if one of my brothers were using it.
+
+When finding Fred in slums again:
+
+Fred: Sir Wallace, glad to see you're back and mostly unharmed. Your family is fine by the way. I placed them in the small divot in the dirt where they can't be seen from the farm and be able to get sunlight.
+Wallace: I'm glad to hear but I need to know something very important.
+Wallace: Where is my pipe to smoke pipeweed out of?
+Fred: Yes, I was wondering about that. I was going to return it to you but you left in a hurry and when I took it out to inspect it, some of the guards caught wind of it and took it off my hands.
+Wallace: Fred. Don't you know you never let the guards see it in broad morn? They probably took for themselves. Where are they?
+Fred: They're holding it onto it just a few steps to the north. Just try not to cause too much trouble or else I might end up having to find another place to work.
+
+<CHARNAME>: Do not worry Fred, they won't see us coming. <A>
+	    Wallace, let's just make this quick. Guards and I do not tend to get along. <A>
+	    All this for a pipe to smoke pipeweed out of...if only we could get a new one. <B>
+
+A: 
+Fred: Please do not use violence. I am certain that a peaceful solution to all this.
+Wallace: Fred, for you, we will try and not throw punches into the wind. END
+
+B:
+Wallace: That was my first smoking pipe that I've held ever since I was 4 days old. I've had many but this one is special. Do not even joke about it  <PRO_BROTHERSISTER> <CHARNAME>. END
+
+The party finds a guard nearby. His name is Jeff.
+
+Wallace:  <PRO_BROTHERSISTER> <CHARNAME>, how do you want to do this?
+
+<CHARNAME>: Simple. We bash his skull in.
+	    Let's try and be diplomatic. If anything, we can appeal to his mortality and love for it.
+	    Let's just pay him 5 gold for it. That's all we'll need to do since he works he, of all places.
+
+Wallace: Alright, I'll follow your lead. 
+Wallace: I don't like guards. They do nothing while my brothers-in-arms suffer. One time, I was carrying my brothers away from a farm when a caravan filled with halflings drove in. Two guards were watching and singing some song about a guard named Joe who had cotton for eyes while we getting sliced by halflings with daggers.
+Wallace: Could never fully trust any of them again after that. Let's just get a move on. END
+
+Guard: By the gods, is that a pumpkin? Moving on its own?
+Wallace: Yeah I know. I am one of the best. Feel free to admire my devilish good looks.
+Guard: Sir, I'm not sure you know this but that pumpkin talks. It's ugly lookin but it talks!
+
+<CHARNAME>: How do you think I feel talking to him everyday? <A>
+	    My good sir, I do believe you have something of my pumpkins that you took without knowing. May he have his pipe back? He does love it dearly. <B>
+	    Hey, you wanna make your salary for the day without doing much work? <C>
+	    Let's just take it off his corpse Wallace. Draw your blades! BEGIN COMBAT
+	    You know what, I will return at a later time. I'm not feeling it right now. END
+
+
+A: Guard: You know, upon closer inspection, his face irks me. What will it take for you to get this creature away from me?
+Wallace: I'm a pumpkin. If anything, I am a portrait of nature's beauty.
+Guard: Please make him stop. I can't stand his face any longer. I think his warts are popping.
+Wallace: My pumpkin skin is fine! How dare you say that I have warts when you look as if a goblin rubbed your face with his own droppings.
+Guard: One more word from his mouth and I'll do us the favor of wiping the ground with his innards.
+
+<CHARNAME>: Good sir, I believe my plant-like friend needs his tool back. Once he has it, we will be out of your hairs. <B>
+	    How about some coin for your troubles? About day's worth too so it would be as if you worked and we'll leave right afterwards. <C>
+	    This is too much trouble then it is. Let's make this quick and painless for him. BEING COMBAT
+
+B: Guard: You mean this pipe I got off of some farmer's stand? I am willing to relinquish it but why? I've grown a bit fond of it. It's hollowed out nicely and has a nice wooden treebark-like texture. Plus it smells like pumpkins.
+Guard: Which I am starting to realize it's probably because of that pumpkin, right?
+Wallace: You want a cookie for realizing that?
+Guard: I actually would like a cookie right now. I haven't eaten yet and my relief hasn't returned to take over. He is starting to become late more often now that we got sent here.
+
+<CHARNAME>: Now, I am more than certain a person of your caliber would be understanding that working here is not exactly up-to-snuff and that he deserves more. Why don't I simply give you some gold for your troubles and we can simply be about our ways without any need for violence?
+	    I've wasted too much time. I'll just take it by force! BEGIN COMBAT
+
+
+C: Guard: Is this an attempt at bribery? I'll have you know I will not stand for such corrupt acts while they happen within my sights.
+
+<CHARNAME>: Think about it like this. We are simply trading coin for goods and services. Nothing wrong with that now is there?
+	    Wallace, let's just throw punches in the wind already. All this talking is making me tired. BEGIN COMBAT.
+
+D: Guard: I suppose a simple trade will cause no trouble but I want more than a few gold pieces. I will need more than that to ensure that even if I get in trouble with my captain, I have something to last me without me having to beg for scraps.
+
+<CHARNAME>: Here's a hundred gold pieces. This should last you at least two tendays and then some. 
+	    How about you taste our blades instead? BEGIN COMBAT
+
+After Combat: 
+Wallace: God, I hope Fred won't be mad about this but <CHARNAME>, he didn't seem like he was that bad of a guy. He was a mortal but still. 
+Wallace: Let's just return. Hopefully Fred won't be too mad.
+
+Fred: I heard what happened. Why exactly did you hurt him? He just took the pipe and that's it. Nothing more.
+Wallace: I was just...
+Fred: Wallace, I know he's your brother-in-arms but you can't hurt people just because it's inconvenient. Have you traveled long enough that us folks are like nothing to you two now?
+Fred: You saved your brothers from slavery and worse which is great. But what crime did he do? 
+
+<CHARNAME>: Look, I'm sorry but he didn't seem as though talking was going to work. We had to do what we had to. <A>
+	    Enough. Here's ten gold in case you were more worried about your job being let go. <B>
+	    We got what we wanted Wallace. Let's just go. <C>
+
+A: Fred: And violence was the answer? You guys are adventurers! Not children throwing tantrums like your favorite toy was taken. <D>
+
+B: Keep it. I do not want any coins stained by blood. <D>
+
+C: Walk away. Sure, go ahead. I suppose hoping adventurer's being anything brave is rarity nowadays huh? <D>
+
+D: Fred: I am disappointed in you Wallace. I thought you would step up beyond this.
+   Wallace: A brother's gotta do what a brother's gotta do Fred. I'm sorry. Let's go <CHARNAME>.
+
+
+Click After Quest: Just leave before more guards show up. I want nothing to happen to them seeing as you already killed one already.
+
+
+Peaceful Way:
+
+Fred: I heard what happened with guard. I'm glad that all those battles you've dealt with hadn't altered how you deal with people. Thank you for doing this all peacefully. 
+Fred: I am relieved knowing that it all worked out in the end.
+Wallace: You shouldn't have been worried. <PRO_BROTHERSISTER> <CHARNAME> was the one who got it back. 
+Wallace: Were it me then I would have gone ahead and throw punches into the wind.
+Fred: You tend to do that quite often Wallace. Be sure to refrain from doing so unless <CHARNAME> says other wise.
+Fred: It does make me glad that all the rumours I hear about you two are for naught. That you and your group care about the little folk like me.
+Wallace: You are not little Fred. You're one of us. A honorary brother-in-arms. I've been meaning to say that since I left.
+Fred: Thank you Wallace. Well, I'm sure you two have many places to go and fights to endure. I pray that your journey's lead to victory.
+Fred: And be safe Sir Wallace. END Fred Leaves.
+
+Wallace: <PRO_BROTHERSISTER> <CHARNAME>, I'm glad we did things as such. It's nice knowing that even though the mortals hurt my kind, we can be better than them. At least for one moment.
+Wallace: Also the pipe of mine is really strong. It hurts but it keeps my mind clear even when I'm feeling magical. 
+Wallace: Try it. It might be useful if we need to stay focus or if something is trying to get us to move left over right.
+Wallace: Plus, it's very intense with the pipeweed I have. Your legs might feel like jelly but by Chauntea's soft hands does it do wonders.
+
+Item Received:
+The Pumpkin Pipe:
+Become Slow
+Cast Chaotic Command on self.
+Uses 15.
+
+
+-----------------------------------------------------------------------------------------------------
+TOB Quest: Confronting the Life Giver
+
+Fred: Wallace, thank the gods I found you. Apparently they were casting magic and made squashes rise from the ground. I didn't know what to do. I...
+Wallace: Brother Fred slow down and speak. We just saw and now you're talking as fast as a pumpkin rolls down a hill after seeing another lady pumpkin with heavy curves.
+Fred: It's good to see you and <CHARNAME> but I ran here after escaping what I had just saw. Actually, more like a miracle to be honest. 
+Fred: Wallace, the very same mage that created you had might have came again. They were using squashes to kill people before our eyes. 
+Wallace: Brother Fred, this must be a joke. You can't honestly tell me that my mom is here now. Or my dad. <CHARNAME>, is it mom or dad?
+
+<CHARNAME>: Wallace is this really the time to be discussing linguistics and theories when your creator is summoning more of your kind to kill the innocent? <A>
+	    I'd say your Mom. Everyone is born from a mother so it would make sense you would be one as well. <B>
+	    I have a gut feeling it would be your father though I am not sure why. <B>
+	    Fred, just tell me where this wizard is so we can already put a stop to them. Honestly, with all the wars we've been in, this would be a nice change of pace. <C>
+
+A: Wallace: <PRO_BROTHERSISTER> <CHARNAME>, you make a fair point. However, I just realized that they owe me a birthday present. <D>
+
+B: Fred: <CHARNAME>, Wallace, we have a rogue mage killing people! May we please focus on that rather than potential heritage?
+Wallace: Brother Fred I get it. But the more I think about it, the more I'm worried about having a new parent to talk to. Carry on before this line of thinking takes me. <D>
+
+C: Wallace: We've dealt with liches, dragons, trolls, demons, drows, and battles that most would not survive from.
+Wallace: But all of this is worse because family gatherings are a bitch to deal with. Especially when my cousin Lenny's family was visiting the ranch to do a seed exchange.
+Fred: Sir Wallace, FOCUS PLEASE! <D>
+
+Fred: A small group of halflings ran some towns over in order to avoid the Bhaalspawn wars that have been happening throughout the sword coast as you two have know very well.
+Fred: I had traveled for the farm to sell some more vegetables with a caravan as the war had disrupted trade logistics. The group had asked to trade and so I showed them the wares I had.
+Fred: After settling in, this mage shows up, cloaked all in robes with no visible face to see, and started blasting magic into the ground. Squashes started to emerge from the ground and tearing the halflings to shreds. I just started running.
+Fred: By now I would hope that they do not have any form of armor or weaponry but whose to say? 
+Wallace: If they're anything like me, they're handsome, muscular titans and will most likely have all the wenches before me and <PRO_BROTHERSISTER> <CHARNAME> will have anything to do to stop them. 
+Wallace: Were they controlled by magic Fred?
+Fred: Yes they were. I believe that the same artifact used to make you was used on them as well. The only difference is that the artifact was refined. The blast was more focused and potent.
+Wallace: Then it appears that more of my kind is being borne without permission. And that they live only to be forced to serve and die. 
+Wallace: I don't like mortals but this must be stopped before the mage conjures an army the likes the sword coast have never seen.
+Wallace: <PRO_BROTHERSISTER> <CHARNAME>, will you stand by me before my creator? To prevent them from destroying the lands and taking the wenches before we can?
+
+<CHARNAME>: I already said yes so yes. Let us move and "squash" this problem quickly. <E>
+	    I often wonder if the gods think I was borne to be made as a joke to the gods? Let's just hurry this up. <E>
+	    I was going to say yes but the more I think about it, the more I realize I am not in the mood for jokes nor for some long-winded adventure involving pumpkins. We have more pressing matters so we should move on. <E>
+	    
+E: Fred: Then be careful as you approach. They should be nearby to the northeastern direction, if we assume they are chasing after me. 
+Wallace: Then we travel to meet them sword in hand, pumpkin bodies clad in armor and devilish good looks readied. 
+Fred: I wish you two luck. I personally do not wish to be around while this fight happens so I'll just go on my way. END
+-----------------------------------------------------------------------------------------------------
+Meeting up with Gallia the Unarmed which is nearby in Saradush:
+
+Wallace: So you're the mage making my brothers die for your battles?
+Gallia: And you must be my failed creation. Then allow me to introduce myself before sending you back into the earth below.
+Gallia: I AM GALLIA THE UNARMED! DAUGHTER OF GOLODON THE UNMANNED.
+Wallace: Wait a second. I was born a failure?
+<CHARNAME>: More importantly, you mean to tell me that the mouthy gnome was actually telling the truth?
+If JAN in party: Of course I was telling the truth <CHARNAME>! To think you have doubted my stories, one would argue that you were trained under Golodon himself. You know, that reminds me of the time both me and Golodon had stepped into the underdark for a quick bite to eat with his new minions...
+<CHARNAME>: Not the time for a tale Jan!
+Wallace: I wasn't asked to be born nor was I meant to. This is a lot for a brother to take in.
+Gallia: Did you really think I wanted to create a sentient pumpkin who drinks and flirts with others across the sword coast like a open-legged three copper courtesan? Of course not.
+Gallia: When I made you, you were a test subject made to see what one of the last artifacts my father had in his armory before his life ended! 
+IF JAN :
+Gallia: And no thanks to a certain gnome by the way!
+Jan: Well, it was not my fault Golodon didn't want to ride the griffin. I told him many times that just because griffons make droppings on the people below doesn't mean they are filthy. It just means they need a thorough turnip cleaning after flying.
+Gallia: And adding to that Wallace, when I made you I had only a few seconds before I had to leave lest the guards who noticed confined me to a cellar prison!
+Gallia: Once I found out your name was being spread and the Bhaalspawn had joined forces with you I had to come find you and see how you turned out before I decide your fate.
+Gallia: Now tell me. How do you feel now that the artifact is being used against you?
+Wallace: I don't really feel anything but probably because there's a hole in my pumpkin heart. Finding out your second mom doesn't want you would do that.
+Gallia: I suppose the artifact's control wore off after I left and not returned immediately. No matter, after I finish with your group I will tear you apart to see what more this "inheritance" can do to your corpse.
+Wallace: Enough!
+Wallace: I may be a unwanted pumpkin in your eyes but I lived long enough to make the ladies want me within seconds and my enemies crushed into the dirt.
+Wallace: With my <PRO_BROTHERSISTER> at my side, we cannot be stopped. You will fall for forcing more to suffer like I have, right <CHARNAME>?
+<CHARNAME>: I will not allow you to live as you create more of his brethren to attack the innocent. You will fall now! BEGIN COMBAT
+	    What is my life? Why was I born? Just to suffer? <F>
+	    I suppose talking is out of the question. <G>
+
+F: Wallace: Uhhhh...<PRO_BROTHERSISTER> <CHARNAME>, are you ok?
+<CHARNAME>: I can't take it anymore Wallace. I just can't.
+<CHARNAME>: Everyday, when I sleep at night, I have nightmares of scraping scars across the flesh of my friends with my own hands.
+<CHARNAME>: When I wake up, I have to plan our next move, ensure that our rations will keep us full and prevent my band from tearing each other apart after weeks of enduring wars and combating horrors.
+<CHARNAME>: I have seen so much carnage, bloodshed and lives lost before my very eyes and I can't stop it. I am helpless before the unending tide that my unwanted taint brings to the sword coast and beyond. 
+<CHARNAME>: I miss the days when I was back in Candlekeep. I miss the days when all I had to do involved sweeping the floors of Winthrop's inn before finishing the third volume of the Alwyn's journey to Waterdeep.
+<CHARNAME>: And now I have to fight a mage whose specialty is conjuring up squashes and beets to attack random people for her insatiable quest for power. Power that is ultimately meaningless when faced with the eventual death that we walk towards.
+<CHARNAME>: What is the point of going on? Why exactly do I keep fighting? What is keeping me going? Why am I choosing to live when my death would simply bring so much peace? 
+<CHARNAME>: I am so tired...
+Wallace: <PRO_BROTHERSISTER>, here. Rest yourself on my shoulder. Just let it out <PRO_BROTHERSISTER>.
+<CHARNAME>: It's too much...this is all too much...
+Wallace: I know it is <PRO_BROTHERSISTER>. Just know we appreciate you. At least I do, <PRO_BROTHERSISTER> <CHARNAME>. 
+Wallace: After this is done let's just go back to an inn and take a day to rest. I think you need it. But now we have to focus on the fight ahead before we get mashed into pumpkin pulp ok?
+<CHARNAME>: Ok...
+<CHARNAME>: I'm ok....where were we?
+Gallia: I don't want to do this anymore. Here. I smashed the artifact after listening to your spiel. I genuinely thought I wanted to be a powerful mage, strong enough to take over castles with ease. No one to stop me while doing so.
+Gallia: But after hearing your struggles I do not wish to end up like a power-hungry mage. All this blood and carnage that it will bring is a burden that most are not willing to carry. I am one of those many. 
+Gallia: The remains are scattered. The artifact is unoperable even if one manages to piece it back together. My minions have turned to dust and I will just go on with my life. 
+Gallia: This....none of this is worth it anymore. END GO TO H
+
+
+G: Gallia: It really isn't. BEGIN COMBAT. Then go to H.
+
+	    
+H: Wallace: That was intense. Really intense. Are you better now <PRO_BROTHERSISTER> <CHARNAME>?
+<CHARNAME>: I got a lot out of my system. I need a break. No amount of ale, wenches and coin will ever fix the holes in my heart and scars in my head. <I>
+	    Honestly, the fight was good practice. <J>
+	    Are you ok Sir Wallace? That was a lot of emotions to deal with I assume? <K>
+
+I: Wallace: I saw. All that screaming was a lot for even me too see. I know that it's been a long journey. But I can feel we are close to end <PRO_BROTHERSISTER> <CHARNAME>.
+Wallace: I swear once all this is over we can celebrate in whatever fashion you desire. I would have suggested the vices I usually partake in but maybe you just want to go back to Candlekeep? 
+
+<CHARNAME>: I just want all of this to end. Let's just move. <L>
+	    Brother Wallace, I need to thank you. I know that the others may think of you as a joke from time to time but your presence is comforting especially when I was bearing my emotions to all to see. <M>
+	    Candlekeep seems so far and yet so close. I cannot wait to lie back on a soft bed and touch soft grass and see the breeze blow betwixt the sheets of tomes. <N>
+
+M: Wallace: Don't mention it. I'm just surprised that none of the other party members talk to you like that. Shows the us pumpkins are there when it really matters. <P>
+
+N: Wallace: I don't read books but if that's what you want then go ahead. I was told that they were farms there so I hope you don't mind that my stem gets some action while you read books. <P>
+
+J: Wallace: Ok well glad to hear that killing my mom was good for testing what the best way to stab someone to death is. <P>
+
+K: Wallace: I found out my mom was a powerhungry mage who used me to further her reach and that I was born a mistake. It's....it's a lot <PRO_BROTHERSISTER> <CHARNAME> to take in.
+Wallace: I don't think no amount of wenches can fill the hole in my pumpkin heart after hearing that. <P>
+
+<CHARNAME>: Maybe not wenches but perhaps a <PRO_BROTHERSISTER>-in-arms can?  <O>
+	    If it is any consolation, I stand with you as should the rest of us. <O>
+
+O: Wallace:  It would help. It would help a lot. Honestly, with all that happened, I thought for a second that I was a lone pumpkin in this plane. 
+Wallace: It is nice to know that I am not alone. <P>
+
+-----------------------------------------------------------------------------------------------------
+
+P: Wallace: That being said, the artifact got destroyed from what happened but I felt some of the magic get sent into me. While my short lived brothers have come to pass, I'm still here.
+Wallace: And with their deaths I could hear them reach out and say the following.
+Wallace: "Brother Wallace, we were not able to live. We were not able to know what it means to be happy for what little moments we had, were only us being sent to kill or be killed."
+Wallace: "Our master did not see us or hear us. She did not care if we had desires nor did she try. And now that the artifact has been destroyed and she been stopped we should have gone beyond the plane you currently travel in."
+Wallace: "But that is not the case. We still have unfinished business and we ask you for one favor."
+Wallace: "We want to know what it means to live. To be merry. To have smiles and feasts like the halflings we saw and to help the innocent like you have just done."
+Wallace: "We lend you our power in exchange for letting us see what exists for this mortal plane. Call on us and we will help you in whatever battle may come."
+Wallace: With that message, I think their souls went into me so I can summon them when needed. Pretty intense right?
+
+<CHARNAME>: I'm surprised, both at the fact you can recite the entire message they said and also the fact that despite being born within seconds they can speak as if they studied and can recite an entire dictionary. <A>
+	    But we will be sending them to their deaths repeatedly. Haven't we tried to avoid this before? <B>
+	    Then while we travel to dangerous lands, we shall show them what it means to live. To have smiles in times of war and to know camaraderie amongst enemies. <C>
+	    After all this I can feel my head throbbing in pain. Just be quiet and move. END
+	    
+
+A: Well, they're in me now. NOT that way <PRO_BROTHERSISTER> <CHARNAME>, but in my heart. Don't let your mind sink in the sewers. 
+Wallace: Plus with the magic being used, I suppose some of it had books translated and etched into the artifact? I'm not a bookish wizard and I don't plan on being one so someone else can try and make sense of it.
+Wallace: And regarding my brothers... <B>
+
+B: We will be sending my brothers to their deaths, yes. But after we talked, they agreed. They think your cause is worthy and would like to see how it ends so they offer their services in turn. After we fulfill your destiny, I will go traveling to enjoy what this plane will offer and hopefully you can come with me on some of those trips <PRO_BROTHERSISTER> <CHARNAME>.
+Wallace: Now all this talk and fighting has made me tense and sore. Hopefully I can find a lass nearby to ease my muscles and more if you catch my drift <PRO_BROTHERSISTER> <CHARNAME>. Let's move! END
+
+C: Wallace: That we will <PRO_BROTHERSISTER> <CHARNAME>. Let's show my little brothers what the lands have to offer. We move! END
+
+Ability Gained:
+
+Summon Brother Mound!
+Summons Shambling Mound to fight on our behalf.
+	    
+
+
+
+
