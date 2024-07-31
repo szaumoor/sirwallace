@@ -7,11 +7,11 @@ BEGIN CFKYLEJ
 BEGIN CFINSUL
 
 CHAIN
-IF ~NumTimesTalkedTo(0)~ THEN FIRSTMEETING
-~InParty("Fred")
+IF ~NumTimesTalkedTo(0)
+InParty("Fred")
 See("Fred")
 !StateCheck("Fred",STATE_SLEEPING)
-Global("FIRSTMEETING","LOCALS",0)~
+Global("FIRSTMEETING","LOCALS",0)~ THEN FIRSTMEETING
 ~Pumpkins here. Get your pumpkins here!~
 DO ~SetGlobal("FIRSTMEETING","LOCALS",1)~
 == CFINSUL
