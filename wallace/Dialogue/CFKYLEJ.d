@@ -1,14 +1,3 @@
-BEGIN CFKYLEJ
-
-// This is Branwen's main dialogue file after she joins the party. Whenever she interrupts Aran Linvail, confesses her love to CHARNAME or comments at the Tree of Life, she speaks from this very file.
-// Here you will find all these annoying-to-code-but necessary things like the Slayer Transformation interjections, Entering Hell interjection, gypsy's reaction in Trademeet, Crazy Celvan and other things. Brace yourself.
-
-// Branwen's friendship/romance/lovetalks are way below, if you want to start with these.
-
-// Gypsy in Trademeet, predicting Branwen's fortune. The condition means "If you're not talking to CHARNAME and the character is Branwen".
-
-// You can read Weidu readme at Weidu.org for more examples. Or just steal this code and forget it all like a bad dream... until you suddenly need it again.
-
 EXTEND_BOTTOM TRGYP02 2
 IF ~!InPartySlot(LastTalkedToBy,0) Name("CFKYLE",LastTalkedToBy)~ EXTERN TRGYP02 g1
 END
