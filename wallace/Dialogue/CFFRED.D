@@ -11,7 +11,7 @@ IF ~NumTimesTalkedTo(0)
 InParty("Fred")
 See("Fred")
 !StateCheck("Fred",STATE_SLEEPING)
-Global("FIRSTMEETING","LOCALS",0)~ THEN FIRSTMEETING
+Global("FIRSTMEETING","LOCALS",0)~ THEN CFFRED FIRST_MEETING
 ~Pumpkins here. Get your pumpkins here!~
 DO ~SetGlobal("FIRSTMEETING","LOCALS",1)~
 == CFINSUL
