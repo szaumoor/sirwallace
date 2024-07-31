@@ -43,17 +43,11 @@ Name("CFKYLE",LastTalkedToBy)
 ~Let's find another inn. One that has curvy pumpkins that I can court.~
 EXIT
 
-// THIS IS IMPORTANT: if you use INTERJECT, you must understand that you're cutting in the game's dialogue, replacing someone else's reaction. So my recommendation is NEVER to do it, except in one or two cases below.
-// On the other hand, using I_C_T, which means INTERJECT_COPY_TRANS, is fine and good.
-
-// ALSO, ALL INTERJECT and I_C_T commands require a UNIQUE PREFIXED NAME, because they set a UNIQUE PREFIXED VARIABLE.
-// This is why I don't write INTERJECT Player1 3 p3, but INTERJECT Player1 3 O#BranSpellholdDizzy0.
-// Weidu will create a variable with the same name. Same goes for your mod.
 
 // Yoshimo's betrayal
 
 I_C_T YOSHJ 113 CFKYLEYOSHJ113
-== CFKYLEJ IF ~InParty("O#Bran") InMyArea("CFKYLE") !StateCheck("CFKYLE",CD_STATE_NOTVALID)~ THEN
+== CFKYLEJ IF ~InParty("CFKYLE") InMyArea("CFKYLE") !StateCheck("CFKYLE",CD_STATE_NOTVALID)~ THEN
 ~I knew it. No one praises a pumpkin that much without trying to touch the stem or bake my pulp into a pie tin. Don't be surprised when I break his leg once I stomp on his corpse.~
 END
 
@@ -96,7 +90,7 @@ END
 ++ ~Sir Wallace, you still have a home to return to and family to hold onto. Be you certain you are prepared and willing for what lies ahead?~ EXTERN CFKYLEJ pl2.1
 ++ ~Sir Wallace, place the pipeweed away. I need you at your best, anything less would spell certain doom for us.~ EXTERN CFKYLEJ pl2.1
 
-CHAIN O#BRANJ pl2.1
+CHAIN CFKYLEJ pl2.1
 ~<PRO_BROTHERSISTER> <CHARNAME>, we're it not for you my brothers would be stomped, squashed or eaten by now. You had me see sights and fight battles that none of my kind would have ever beheld. For all that you've done and more <PRO_BROTHERSISTER> <CHARNAME>, I stand with you with swords drawn and stem strengthened.~
 END
 COPY_TRANS PLAYER1 33 
@@ -108,7 +102,7 @@ COPY_TRANS PLAYER1 33
 // Tree of Life, Irenicus is dead.
 
 I_C_T PLAYER1 16 CFKYLEIrenicusIsDead1
-== O#BRANJ IF ~InParty("CFKYLE") Range("CFKYLE",15) !StateCheck("CFKYLE",CD_STATE_NOTVALID)~ THEN 
+== CFKYLEJ IF ~InParty("CFKYLE") Range("CFKYLE",15) !StateCheck("CFKYLE",CD_STATE_NOTVALID)~ THEN 
 ~Finally. Now that you've got your soul back, let's head back to the Elf city and celebrate. I always did wonder what elvish ale tasted like. Hopefully it doesn't have any leaves in it.~
 END
 
