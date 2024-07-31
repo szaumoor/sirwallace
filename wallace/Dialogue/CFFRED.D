@@ -3,6 +3,7 @@
 In the slums of Atlkatla, there is a man selling his pumpkins. Upon closer inspection, there appears to be pumpkin that moves. */
 
 BEGIN CFFRED
+BEGIN CFKYLE
 BEGIN CFKYLEJ
 BEGIN CFINSUL
 
@@ -159,10 +160,11 @@ See("CFKYLE")
 EXIT
 
 CHAIN
-IF ~NumTimesTalkedToGT(1)~ THEN ReturnOffer
-~InParty("CFKYLE")
+IF ~NumTimesTalkedToGT(1)
+InParty("CFKYLE")
 See("CFKYLE")
-!StateCheck("CFKYLE",STATE_SLEEPING)~
+!StateCheck("CFKYLE",STATE_SLEEPING)
+Global("Return_Offer","LOCALS",0)~ THEN CFFRED Return_Offer
 ~You have returned. Pleasure to see you again. Have you decided to purchase the freedom of my friends kind?~
 == CFKYLE
 ~I hope you do. All these commoners are looking at my kind with hunger in their eyes and I can only move so much to stop them.~

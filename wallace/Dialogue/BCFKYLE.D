@@ -50,7 +50,7 @@ DO ~SetGlobal("CFKYLEKeldorn1","GLOBAL",1)~
 ~You live by many rules but you haven't enough time for family. My brother-in-arms Lenny told me that celebration alone is no celebration at all.~
 == CFKYLE
 ~Save all the people you want. Your family won't celebrate with you once all is said and done.~
-== BKLEDOR
+== BKELDOR
 ~They understand my duty. They understand my devotion and what Torm needs of me.~
 == CFKYLE
 ~Bet your daughter won't remember you if you keep devoting yourself to Torm.~
