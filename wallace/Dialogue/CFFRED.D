@@ -45,7 +45,7 @@ See("CFKYLE")
 == CFKYLE
 ~No. Nothing is alright. Not that you would care. You're probably like the rest of them.~
 END
-IF ~~ EXTERN CFFRED b1.E
+IF ~~ EXTERN CFFRED E
 
 CHAIN CFFRED B
 ~InParty("CFKYLE")
@@ -54,7 +54,7 @@ See("CFKYLE")
 == CFKYLE
 ~I AM NOT FOR SALE.~
 END
-IF ~~ EXTERN CFFRED b.E
+IF ~~ EXTERN CFFRED E
 
 
 CHAIN CFFRED E
